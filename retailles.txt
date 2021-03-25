@@ -1,0 +1,108 @@
+### La conception subjective de l'économie est accessible
+
+De par notre expérience personnelle, cantonnée mais s'inscrivant sur plusieurs années, le déplacement des notions de coût et de profit vers celles de *gêne* et de *satisfaction* évoquées ci-haut génère d'emblée chez l'interlocuteur une ouverture à la poursuite de la discussion. Nombre de celles-ci auront eu cours grâce à cette conception subjective de l'économie, plus proche de l'expérience personnelle quotidienne. Il n'est pas rare de voir l'interlocuteur réaliser par lui-même que la réflexion économique est bien ancrée dans ses prises de décision quotidiennes. Car, comme le démontre Justin Wolfers, professeur d'économie et conférencier américain, l'économique est essentiellement une science des décisions. Son approche, trouvant écho dans celle présentée ici, en est une de rapprochement de l'analyse économique à la vie quotidienne (Wolfers, 2017 ; Wolfers, 2019). Ses exemples, ancrés dans le vécu de ses étudiants et de son auditoire, remplacent ceux généralement froids et abstraits étant inscrits dans les manuels universitaires et la communication économique de masse. Inscrire l'économique dans la vie quotidienne et les prises de décisions qui lui sont inhérentes, soit l'« action humaine » de Ludwig von Mises, apparaît porteur d'intérêt.
+
+Communiquer l'économique est une nécessité personnelle s'abreuvant de lectures et s'étanchant de discussions. Mais un désir de rejoindre un plus grand public auquel communiquer la « science de l'action humaine » et ainsi lui insuffler un vent d'intérêt nous mène à produire cette recherche-création. Dans un esprit de libre-circulation de l'information (celle produite mais aussi celle empruntée, selon les licences numériques (Wikipedia, 2020), un modèle de communication économique interactive se voulant accessible, familier et efficace est développé et proposé comme création accompagnant ce mémoire.
+
+## L'historique de la création
+
+Trois années se sont écoulées entre l'écriture de ces lignes et les dernières explorations produites dans le cadre de cette recherche-création. Un désistement temporaire fut autrefois nécessaire considérant que le travail de concepteur interactif en agence accaparait toujours plus de temps et d'énergie. Communiquer l'économique, et le faire sous une direction académique, demeurait néanmoins une nécessité personnelle. À travers la lecture, les réflexions et les notes prises, cette période de flottement se sera avérée bénéfique.
+
+### Des débuts confus et naïfs
+
+Effectivement, le caractère naïf des premières ambitions de création émergea durant ces années. À la relecture de la présentation d'un « Musée d'expositions économiques », il apparaît maintenant clair en rétrospective que cette appellation ne servait qu'à voiler la confusion et le flou qui minaient à l'époque le développement d'une vision claire et nette. La citation suivante, tirée du projet de mémoire, en est un exemple : 
+
+> «  Economia se composera de nombreux types de « modules » informatifs et interactifs [...] Ils sont regroupés au sein de trois grandes catégories :
+
+> - des activités (essais, interrogations spontanées, schémas interactifs, etc.),
+> - des compléments (statistiques, index, profil, recherche, etc.),
+> - et des récompenses (niveaux, personnages, fiches, visualisations, etc.). »
+
+Dans les « trois grandes catégories » se trouvent les composants d'une plateforme nécessitant l'apport de nombreux intervenants, sur plusieurs mois. Impossible de porter à terme individuellement une création de cette envergure. Les explorations en découlant font foi de cet étalement (REF : travaux en annexe). Notable est l'incapacité de sélectionner, écarter et épurer. Force est d'admettre que le rédacteur de ces lignes souffrait d'illusions de grandeur.
+
+Après ce constat difficile, une question s'est toutefois posée d'elle-même. Et si c'était un processus nécessaire ? Considérant l'horizon étendu des possibilités de communication devait-on découvrir à tâtons où commencer ? Devait-on « exorciser » les multiples formes inadéquates de communication pour trouver celle, épurée, qui allait être choisie ? Car ce qui en reste et fait maintenant partie de la création en découle directement. Pour former cette contribution à la communication économique, beaucoup aura été écarté mais presque autant aura été récupéré, remanié, révisé et précisé. La personnalisation du discours à travers un avatar demeure. Tout comme l'esprit modulaire fut recyclé dans la contrainte de « section-écran » ou l'usage de Wikipedia comme incitatif à l'approfondissement fut récupéré, pour ne citer que quelques exemples de ce qui sera présenté ci-bas.
+
+### Explorations et apogée des ambitions
+
+L'évaluation en rétrospective des travaux accomplis lors du premier passage (2014-2017) à la maîtrise tend à confirmer cette hypothèse. Il fallait vider la chaudière « Lego » par terre pour bien voir les blocs permettant de construire la création. Le cours « Stratégie de création » fut le premier à nécessiter l'expression des intentions. Celles-ci demeurent encore et toujours inchangées, témoignage de la « nécessité personnelle de communiquer l'économique » évoquée ci-haut. C'est plutôt l'articulation des moyens d'y arriver qui aura évolué dans les dernières années. Une citation, tirée du synopsis demandé dans le cadre de ce cours demontre l'étalement typique de cette phase exploratoire du parcours créatif : 
+
+> « Les modules seront regroupés autour du concept économique auquel ils s’adressent. Ils constitueront ainsi une « constellation conceptuelle » où l'usager sera libre de parcourir comme bon lui semble les modules lui étant accessibles. À titre d’exemple, une « constellation » traiterait de l'échange en situant ce concept dans :
+
+> - sa dimension historique (qui est son théoricien et quel était son contexte ?);  
+> - sa dimension théorique (quels sont les lois régissant l'échange ? pourquoi échange-t-on ?) ;  
+> - sa dimension politique (démystifier le libre-échange international contemporain) ; 
+> - sa dimension humaine (une famille, un couple, un groupe échange sans cesse... ne serait-ce même qu'en paroles) ;  
+> - sa dimension sociale (jeu simple fondé sur l'échange avec les autres usagers) ;  
+> - etc. »
+
+L'inclusion du « etc. » à la fin de l'énumération ci-haut apparaît maintenant lourde de sens. Elle représente l'incapacité à focaliser. Tout comme l'emploi de la métaphore de la « constellation » expose la vaste étendue de l'univers de possibilité qui ne pouvait qu'être survolé, sans savoir où ni comment s'y plonger.
+
+Le cours « Séminaire de développement de projet » donna lieu à un moment de focalisation. Le concept de « l'écographie » (REF : écographie en ligne), une création autonome, supportée par une forme novatrice de visualisation de circuit économique, y fut développé. Sa réception fut unanime : elle donnait envie d'en apprendre plus sur l'assurance-médicament, sujet de la visualisation développée. La forme actuelle de la création se fonde dans cette expérimention. Néanmoins, il s'agissait là d'une brève intermission à l'éparpillement.
+
+### Le focus doit être l'action humaine
+
+La portée du projet de création atteint son apogée dans le cours « Le Web-documentaire ». Revisiter les expérimentations produites dans le cadre de ce cours suscite l'impression d'un déraillement. L'observateur reste pantois devant la complexité des maquettes présentées, le domaine immense de l'expérience, l'inclusion de données dynamiques et les multiples formes distinctes que prenait l'œuvre (REF : annexe). Il en va de même à la lecture du journal tenu durant le développement de ces maquettes et tout autant à lecture des deux autres journaux tenus en parallèle. Ces journaux sont témoins de l'égarement et de la difficulté de focaliser énoncée ci-haut. Partout se trouve la théorie économique, particulièrement le concept de coût d'opportunité. Il devient clair qu'à ce moment le désir de rendre quotidienne l'économique était asujetti à sa théorie abstraite. Le point départ demeurait la théorie, et non l'action quotidienne. Mais il fallait faire l'inverse : à partir de l'action quotidienne, exposer le concept.
+
+### Des leçons à tirer
+
+Fallait-il purger toutes ces idées pour en distiller l'essence ? Peut-être s'agissait-il du processus d'épuration menant vers la simplification des formes, processus typique de la tradition du « design ». Ce qui est aujourd'hui présenté est le fruit d'une réflexion de longue haleine qui implique un abandon de certaines ambitions bien incarnées. Un seul sujet issu de l'actualité est maintenant abordé : l'achat local. À partir de cette « action humaine » est tissé le fil de la réflexion économique nécessaire à la prise de décision éclairée. Au « coût d'opportunité » s'est substitué « l'achat local », à la théorie s'est substituée la pratique.
+
+## L'analyse économique et sa communication
+
+Le focus maintenant précisé et la cible bien en vue, les questions quant à la portée du domaine de la démonstration demeurent. Comment démystifier le principe de l'achat local ? Où devrait-on démarrer et où devrait-on arrêter ? Quelques principes fondamentaux peuvent informer les réponses à ces questions.
+
+### Trouver l'équilibre de vulgarisation
+
+Premièrement, il nous est important de vulgariser les notions économiques sans les dénaturer. Le degré adéquat de « vulgarité » doit être atteint. Ce degré est élusif. L'évaluation de sa justesse sera faite dans le chapitre IV, grâce à l'analyse de la réception de l'expérience par son public. Il est cependant pertinent de faire état de cette démarche réflexive de découverte du degré optimal de « vulgarité ». Cette démarche s'est articulée dans les questions suivantes, relevant du « quoi », du « où » et du « comment » :
+
+- Quoi montrer ?
+- Quels termes employer ?
+- Dans quelle forme s'inscrire ?
+- Quelle visualisation ?
+- Où arrêter la chaîne économique à présenter ?
+- Qu'est-ce qui est essentiel d'inculquer à notre public ?
+- Comment enchaîner les bases du raisonnement nécessaires à la compréhension du concept ?
+
+Trouver les bonnes réponses à ces questions, c'est trouver le juste équilibre de la vulgarisation.
+
+Il aussi important dans cette approche de la vulgarisation de focaliser sur l'action concrète, celle qui touche directement l'utilisateur, soit l'achat et sa prise de décision. C'est pourquoi l'action quotidienne et familière doit toujours se retrouver au centre des sections de contenu. Pour contribuer à l'assimilation de cette exposition et lui donner un aspect narratif, le discours économique est personnifié grâce à des avatars à l'effigie de Marc-André et Henri. Donner la latitude au public d'approfondir les notions qui l'intéressent, subjectivement, est aussi une méthode de communication jugée optimale, laissant ainsi libre cours à l'intérêt personnel de certains usagers sans en alourdir l'expérience pour les autres. L'utilisation de Wikipedia à cet effet sera expliquée plus bas.
+
+### Simplifier la réalité complexe
+
+Finalement, la nécessité d'écarter certains aspects de la réalité, doit être acceptée. Tout comme il est devenu nécessaire d'accepter l'inclusion d'autres aspects qui, à l'inverse, avaient été de prime abord écartés. Par exemple, les scénarios de choc économique où sont ajoutés les achats locaux à divers niveaux de la chaîne se doivent d'être restreints. Toutes les ramifications et implications de chocs sur tous les agents de la chaîne ne peuvent être montrées. L'exposition du besoin de ressources supplémentaires découlant d'un plus grand nombre d'achats locaux doit tout autant être oubliée. Sans même parler de leur mise en forme, la complexité de ces scénarios et de leurs implications pourrait s'avérer plus confondante qu'éclairante pour une introduction au raisonnement économique. D'un autre côté, l'exclusion totale des chiffres et du calcul monétaire, vœu fait dès les débuts de la démarche, apparaît maintenant impossible. Une inclusion demeurant minimale est nécessaire à la compréhension. Ils sont donc traités de manière secondaire et ramenés à une échelle quotidienne, en dizaines de dollars et non en millions.
+
+Les dilemmes et arbitrages présentés ci-haut sont inhérents au désir d'optimiser la communication. La réflexion économique est présente dans les choix faits au niveau de la communication. Mais encore, elle l'est tout autant dans les décisions de conception. L'économique informe le « design » tout comme le « design » informe sa communication.
+
+Et il nous est impossible de nous fier strictement sur cette vision puriste du design ; des compromis doivent être faits. Comme nous ne pouvons nous engager strictement dans la théorie en discutant, nous ne pouvons non plus épurer complètement la communication de toute forme de design comme il est fait en recourant à la ligne de commande.
+
+Otto Neurath pour sa part s'intéressa à la communication économique par le design. Faisant équipe avec le designer Gerd Arntz, ils développèrent de concert le langage ISOTYPE dans l'objectif de communiquer l'économique à un public multiculturel. Leur pratique influence la création de l'œuvre sous plusieurs facettes dont la démonstration sera effectuée dans le prochain chapitre. L'influence de Neurath dans les diagrammes présentés est bonifiée par celle de Johannes Itten du côté de l'harmonie des couleurs et de Bradbury Thompson du côté de la composition. Tous trois sont associés au mouvement du Bauhaus, école de design axée fondamentalement sur la fonction et recherchant généralement l'économie dans la forme (REF). 
+
+
+---
+
+On résume tout.
+- Personnages.
+- Économistes.
+- Wiki intégré.
+- Préférences.
+- Sections écran.
+- Diagramme(s)
+
+
+Établir un cadre de conception informé par l'analyse économique et balisant la recherche itérative de solutions optimales.
+
+
+
+
+Informer l'action quotidienne par la communication économique
+
+Mettre l'interactivité à profit : respecter les préférences des utilisateurs
+
+La séquence communicationnelle de l'œuvre
+	- On fait connaissance
+	- On aborde la notion de chaîne économique
+	- On dévoile la chaîne d'un acht de bière
+	- On présente plusieurs achats différents et leur impact sur la chaîne
+	- On résume et demande l'appréciation
+
+### Informer le public par une communication économique quotidienne et familière. 

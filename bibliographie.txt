@@ -1,0 +1,147 @@
+\newpage{}
+
+\section*{Bibliographie}
+\addcontentsline{toc}{section}{Bibliographie}
+
+\begingroup
+\noindent
+\raggedright
+\linespread{1}\selectfont{}
+\setlength{\parindent}{-0.25in}
+\setlength{\parskip}{1em}
+\setlength{\leftskip}{0.25in}
+
+Awwwards. (2021). *The awards of design, creativity and innovation on the internet*. Récupéré le 14 mars 2021 de https://www.awwwards.com/
+
+Baillargeon, N. (2005). *Petit cours d’autodéfense intellectuelle*. Montréal : Lux.
+
+Baillargeon, N. (2014). *Êtes-vous un cynique? de quel type, alors?*. Récupéré le 14 mars 2021 de https://voir.ca/chroniques/prise-de-tete/2014/04/02/etes-vous-un-cynique-de-quel-type-alors/
+
+Baillargeon, N. (2014). *Humour et enseignment*. Récupéré le 14 mars 2021 de https://voir.ca/normand-baillargeon/2015/03/11/humour-et-enseignement/
+
+Boyack, C. (2020). *The Tuttle Twins and the Messed Up Market*. Lehi (UT) : Libertas Press.
+
+Boyack, C. [s. d.]. *The Tuttle Twins*. Récupéré le 14 mars 2021 de https://tuttletwins.com/
+
+Cat, J. (2014). Otto Neurath. Dans E. N. Zalta (dir.), The Stanford Encyclopedia of Philosophy. 
+
+Communicating Economics. (2017). *How can Economists Better Engage with the Public?*. [Vidéo]. Bristol (UK) : Economics Network. Récupéré le 14 mars 2021 de https://www.communicatingeconomics.com/resources/how-can-economists-better-engage-public.
+
+Coronel, J. C., O'Donnell, M. B., Pandey, P., Delli Carpini, M. X. et Falk, E. B. (2021). Political Humor, Sharing, and Remembering: Insights from Neuroimaging. *Journal of Communication*. 71:1, pp. 129-61.
+
+Cowen, T. et Tabarrok, A. (2012-). *Marginal Revolution University*. Récupéré le 14 mars 2021 de https://mru.org/.
+
+Dewey, J. (1922, 3 mai). Public Opinion. *The New Republic*, pp. 286-88.
+
+Fox, J. (2015). From “Economic Man” to Behavioral Economics. *Harvard Business Review*, May 2015, pp. 78-85. Récupéré le 14 mars 2021 de https://hbr.org/2015/05/from-economic-man-to-behavioral-economics
+
+Ford School. (2019). *Macmillan Learning announces publication date for new Stevenson, Wolfers economics textbooks*. Récupéré le 14 mars 2021 de https://fordschool.umich.edu/news/2019/published-acclaimed-ford-school-economists-seek-transform-college-economics-through-new
+
+Friedman, M. et Friedman, R. (1980a). *Free to Choose*. [Série télévisée]. United States of America : PBS.
+
+Friedman, M. et Friedman, R. (1980b). *Free to Choose — Volume 1 : The Power of the Market*. [Vidéo]. Récupéré le 14 mars 2021 de https://www.youtube.com/watch?v=dngqR9gcDDw&ab_channel=FreeToChooseNetwork. 
+
+Gerd Arntz Web Archive. [s. d.]. *Gerd Arntz (1900-1988)*. Récupéré le 14 mars 2021 de http://www.gerdarntz.org/content/gerd-arntz#isotype
+
+Hartmann, F. (2014). Visualizing social facts: Otto Neurath's ISOTYPE project. Dans W. Boyd Rayward (dir.), *European Modernism and the Information Society: Informing the Present, Understanding the Past*, p. 279-293. London : Routledge. 
+
+Hayek, F. A. (1944/2009). *The Road to Serfdom: Text and Documents—The Definitive Edition*. Chicago : University of Chicago Press.
+
+Idéa. (2021). *Le concours de la communication créative*. Récupéré le 14 mars 2021 de https://concoursidea.ca/
+
+Jevons, W. S. (1871). *Theory of Political Economy*. London : MacMillan and Co.
+
+LCN. (2021). *«À vos affaires» l’économie simplifiée avec Pierre Olivier Zappa*. [Vidéo]. Récupéré le 14 mars 2021 de https://www.youtube.com/watch?v=0pZ_CHzIMlY&ab_channel=LCN.
+
+Lippmann, W. (1922). *Public Opinion*. New York : Harcourt, Brace and Co.
+
+Maris, B. (2003). *Antimanuel d’économie [1. Les fourmis]*. Rosny : Bréal.
+
+Maris, B. (2006). *Antimanuel d’économie [2. Les cigales]*. Rosny : Bréal.
+
+McCloskey, D. N. (1985/1998). *The Rhetoric of Economics*. Madison (WI) : The University of Wisconsin Press.
+
+Menger, C. (1871/1976/2007). *Principles of economics*. (J. Dingwall et B. F.  Hoselitz, trad.). Arlington (VA) : Institute for Humane Studies.
+
+Mises, L. (1949/2004). *Abrégé de l'Action humaine, traité d'économie*. (G. Dréan, trad.). Paris: Les Belles Lettres.
+
+Nemeth, E., Schmitz S. W. et Ubel, T. E. (2007). Introduction. Dans E. Nemeth, S. W. Schmitz et T. Uebel (dir.), *Otto Neurath's Economics in Context* (p. 3-11). New York : Springer.
+
+Neurath, O. (1936). *International Picture Language*. London : Kegan Paul, Trench, Trubner and Co Ltd.
+
+Neurath, O. (1939). *Modern Man in the Making*. New York : Alfred A. Knopf.
+
+Neurath, O. (2010). *Des écritures hiéroglyphiques à l'Isotype : une autobiographie visuelle*. Paris : Éditions B42.
+
+Nielsen, Jakob. (2004). *Situate Follow-Ups in Context*. Récupéré le 14 mars 2021 de https://www.nngroup.com/articles/situate-follow-ups-in-context/
+
+Nielsen, Jakob. (2010). *Website Response Times*. Récupéré le 14 mars 2021 de https://www.nngroup.com/articles/website-response-times/
+
+Nielsen, Jim. (2020). *Cheating Entropy with Native Web Technologies* Récupéré le 14 mars 2021 de https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
+
+Nolan, A. (2016). *The State of Front-End Tooling – 2015* Récupéré le 21 mars de de [https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
+
+O'Neill, J. F. (2007). Pluralism and Economic Insitutions. Dans E. Nemeth, S. W. Schmitz et T. Uebel (dir.), *Otto Neurath's Economics in Context* (p. 77-100). New York : Springer.
+
+Orfali, P. (2019). Le Grand Prix du Canada a-t-il autant de retombées?. *Le journal de Montréal*. Récupéré le 21 mars 2021 de [https://www.journaldemontreal.com/2019/06/05/le-grand-cirque-des-courses-a-t-il-autant-de-retombees](https://www.journaldemontreal.com/2019/06/05/le-grand-cirque-des-courses-a-t-il-autant-de-retombees) 
+
+Ossola, A. (2019). *The web is still in its awkward teenage phase according to its father, Tim Berners-Lee*. Récupéré le 14 mars 2021 de https://qz.com/1568970/tim-berners-lee-on-founding-the-world-wide-web-30-years-ago/
+
+Pannell, D. J. (2004). Effectively communicating economics to policy makers. *The Australian Journal of Agricultural and Resource Economics*, 48:3, pp. 535–555.
+
+Plausible. [s. d.]. *Simple and privacy-friendly alternative to Google Analytics*. Récupéré le 14 mars 2021 de https://plausible.io/
+
+Poettinger, M. (2014). *Between History and Theory: Otto Neurath 1906-1917*. Milan : Università commerciale Luigi Bocconi.
+
+Polek, C. (2010). Effective Communication in Economics: Lessons from Peter Boettke. *The Journal of Private Enterprise*, Vol. 26, No. 1, pp. 39-46.
+
+Postman, N. (1985/2006). *Amusing Ourselves to Death*. New York : Penguin. 
+
+Provencher, N. (2016). Cours obligatoire d'économie au secondaire: priorité aux finances personnelles. *Le Soleil*. Récupéré le 14 mars 2021 de https://www.lesoleil.com/actualite/education/cours-obligatoire-deconomie-au-secondaire-priorite-aux-finances-personnelles-470476c1e405c6f0629a478efca99175
+
+Raworth, K. (2017). *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*. New York : Random House.
+
+Redfern, D. (2020). *No Code is the Best Code*. Récupéré le 14 mars 2021 de https://daveredfern.com/no-code/
+
+Roberts, R. (2010). *Fear the Boom and Bust: Keynes vs. Hayek*. [Vidéo]. Récupéré le 14 mars 2021 de https://www.youtube.com/watch?v=d0nERTFo-Sk&t=247s&ab_channel=EmergentOrder
+
+Roberts, R. (2017). *It's a Wonderful Loaf*. [Vidéo]. Récupéré le 14 mars 2021 de https://www.youtube.com/watch?v=ljULutAUL7o&t=80s&ab_channel=PolicyEd. 
+
+Robinson, J. (1978). *Contributions to Modern Economics*. New York : Academic Press.
+
+Runge, J. et Hudson, N. (2020). *Public Understanding of Economics and Economic Statistics*. London (UK) : Economic Statistics Centre of Excellence.
+
+Rupert, D. (2020). *The tangled webs we weave*. Récupéré le 14 mars 2021 de https://daverupert.com/2020/09/tangled-webs/
+
+Smith, A. (1776/1990). *Recherche sur la nature et les causes de la richesse des nations*. (G. Garnier, trad.). Paris : Gallimard.
+
+Stigler, G. (1984). Economics: The Imperial Science?. *The Scandinavian Journal of Economics*, Vol. 86, No. 3, pp. 301-313.
+
+Stills, D. L. et Merton R. K. (2000). *Social Science Quotations: Who Said What, When, and Where*. Piscataway (NJ) : Transaction Publishers.
+
+Tabarrok, A. (2017). *When in India Get a Haircut*. Récupéré le 14 mars 2021 de https://mru.org/courses/development-economics/india-haircut-balassa-samuelson
+
+Tufte, E. (2001/2007). *The Visual Display of Quantitative Information*. (2e éd.). Chesire (CT) : Graphics Press.
+
+Vitsœ. [s. d.]. *Dieter Rams: Ten Principles for Good Design*. Récupéré le 14 mars 2021 de https://www.vitsoe.com/gb/about/good-design
+
+W3C. (2021). *Standards*. Récupéré le 14 mars 2021 de https://www.w3.org/standards/
+
+Wikipedia. (2016a). *Isotype (pictogramme)*. Récupéré le 14 mars 2021 de https://fr.wikipedia.org/wiki/Isotype_(pictogramme)
+
+Wikipedia. (2016b). *Préprocesseurs*. Récupéré le 21 mars 2021 de [https://fr.wikipedia.org/wiki/Pr%C3%A9processeur](https://fr.wikipedia.org/wiki/Pr%C3%A9processeur)
+
+Wikipedia. (2020). *Wikipédia:Citation et réutilisation du contenu de Wikipédia*. Récupéré le 14 mars 2021 de [https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia)
+
+Wikipedia. (2021). *Browser Wars*. Récupéré le 14 mars 2021 de [https://en.wikipedia.org/wiki/Browser_wars](https://en.wikipedia.org/wiki/Browser_wars)
+
+Wikipedia. (2021). *Framework*. Récupéré le 14 mars 2021 de [https://fr.wikipedia.org/wiki/Framework](https://fr.wikipedia.org/wiki/Framework)
+
+Wolfers, J. (2017). "Useful Economics" Featuring Justin Wolfers. *Macmillan Learning*. Récupéré le 14 mars 2021 de https://youtu.be/Xmgi4tQMq5c
+
+Wolfers, J. (2019). Economics Isn’t Dismal. It’s Useful. *The New York Times*. Récupéré le 14 mars 2021 de https://www.nytimes.com/2019/07/26/business/economics-useful-superpower-education.html
+
+Zeldman, J. (2003). *Designing with Web Standards*. Indianapolis : New Riders.
+
+
+\endgroup

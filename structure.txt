@@ -1,0 +1,213 @@
+# Mémoire — document d'accompagnement
+
+- Introduction
+    + L'omniprésence des « mythe & légendes » économiques
+        * Le gouvernement en bon père de famille
+        * La création d'emplois pour et par elle-même
+        * Le PIB indice de richesse
+        * L'efficacité en tant que prétexte à la rationalisation
+        * ...
+    + Tester et valider l'efficacité et l'efficience d'une approche de conception de la communication économique.
+    + Minimiser le travail requis pour pouvoir appliquer à répétition cette approche à de multiples sujets économiques.
+    + Établir une méthode systématique de communication économique relevant de la tradition du « design ».
+- Chapitre I : le cadrage théorique
+- Chapitre II : la démarche et sa méthode
+    + Mon cheminement économique.
+        * Tanné de ne pas comprendre.
+        * Lecture de Marx, Smith et Mises.
+            - Le rapport de force, le pouvoir de négociation
+            - L'échange et le marché
+            - La valeur subjective : gêne et satisfaction
+        * Parcourir un horizon étendu d'idéologies et de critiques.
+        * Comprendre la logique pour mieux tour à tour la critiquer et l'appliquer.
+        * Auto-défense intellectuelle de Baillargeon et Antimanuel de Maris.
+            - Je m'en rapproche dans mes intentions. Éclairer et éveiller. Donner les moyens d'y voir plus clair. Intéresser.
+        * Événement marquant : mes études en économie. 
+        * Rapidement, je sus que je voudrais communiquer cette nouvelle passion et l'unifier à ma première.
+    + La necessité personnelle de communiquer l'économique.
+        * Tiens de ma pratique discursive... Toujours prêt à discuter d'économie, à éclairer mon entourage quant aux réalités économiques et à leur importance centrale à notre vie de citoyen.
+        * Pourquoi la communication ? Plus je parlais avec mes connaissances plus je me rendais compte que personne ne s'imaginait l'économique comme je la découvrais.
+        * Le constat malheureux de la rhétorique élitiste et mathématique des économistes (REF : Deirdre McCloskey)
+        * Je percevais les tares associées à une inconscience, insouciance et méfiance économique.
+            -  Donne des résultats sociaux sous-optimaux. 
+            -  Laisse le chemin aux autres et à leurs intérêts.
+        * L'expérience de la discussion économique dans mon entourage.
+            - l'économique est assimilée à la finance dès le secondaire (REF : https://www.lesoleil.com/actualite/education/cours-obligatoire-deconomie-au-secondaire-priorite-aux-finances-personnelles-470476c1e405c6f0629a478efca99175)
+        * La possibilité de communiquer l'économique comme une science des décisions (REF : Justin Wolfers et la vie économique)
+        * S'adresser à un large public. À l'opinion publique.
+            - Insuffler un vent d'intérêt pour l'économique, pour ses nuances, arbitrages et ramifications.
+        * L'esprit de circulation libre de l'information.
+            - Celle que je produis mais aussi celle que j'emprunte, selon les règles de l'art (REF : license Wikipedia)
+        * Établir un modèle de communication économique interactive qui se veule accessible, familière et pratique.
+    + L'historique de la création : des illusions de grandeur à la circonscription des ambitions
+        * La naïveté des premières ambitions.
+            - Le « Musée d'expositions économiques »
+                + Plusieurs concepts, plus théorique...
+                + Exemples en annexes
+                + Citations de travaux produits
+                + La modularité et ce qu'il en reste
+                    * « Écrans » à voir ci-bas
+            - Une estime démesurée m'invitant à vouloir laisser ma trace... Mais ce n'est qu'un mémoire !
+            - Éparpillement et visées confuses et confondantes
+            - Ce qui a passé le test des trois dernières années à l'écart.
+            - Processus nécessaire considérant l'horizon étendu des possibilités de communication ?
+                + Découvrir à tâtons où commencer.
+                + Épurer (voire exorciser) les multiples formes inadéquates.
+        * Évaluation en rétrospective des travaux accomplis lors de mon premier passage
+            - Stratégies de création
+            - Expérimentation
+                + L'écographie demeure l'artefact ayant le mieux passé le test du temps. 
+            - Webdoc : là où j'ai complètement déraillé.
+                + La complexité inhérente des maquettes et explorations. 
+                + Les données dynamiques, les formes multiples et distinctes.
+        * La relecture des journaux tenus.
+            - À quel point je me suis égaré. À quel point il fut difficile de focaliser.
+            - Des idées toutes plus grandes les unes que les autres.
+            - Généralement théorique. Désir de vulgariser un concept.
+                + Partir du concept théorique et ensuite en démontrer l'importance quotidienne.
+                + Mais il fallait faire l'inverse.
+        * Le retour à l'essence de la démarche : susciter l'intérêt pour l'économique.
+            - Processus d'épuration menant vers la simplification des formes.
+            - Réflexion de longue haleine qui implique un abandon, voire un deuil de certaines ambitions bien incarnées.
+            - Partir de l'action économique. Acheter local. Tisser le fil de la réflexion économique de ce point de départ quotidien.
+                + Du coût d'opportunité vers l'achat local
+            - Avantage de s'appuyer sur un sujet d'actualité.
+                + Choix d'un sujet économique dans l'air du temps, qui se prête bien à une exposition se rapportant à l'action. 
+                + Sujets envisagés : salaire minimum, allocation universelle et achat local.
+                + Pourquoi « achat local » ? Parce qu'il était plus facile à expliquer considérant le travail accompli par Henri. Question d'efficacité...
+    + La communication : savoir d'où démarrer et où s'arrêter.
+        * Vulgariser et simplifier sans tromper.
+            - Choisir le degré adéquat de « vérité ».
+            - Les questions relevant du « quoi ».
+            - Quoi montrer, quels termes employer, où s'arrêter, comment le mettre en forme. 
+            - Qu'est-ce qui représente au mieux l'action économique qu'on tente d'expliquer ? Quelle visualisation ? 
+            - Où arrêter la chaîne économique à présenter ? 2-3 niveaux de fournisseurs ? Qu'est-ce qui est essentiel d'inculquer à notre public ? 
+            - Par où commencer ? Quels sont les bases de raisonnement nécessaires à la compréhension du concept ? Comment enchaîner lesdites bases ?
+        * Focaliser sur l'action
+            - La quotidienneté, la familiarité.
+        * Mettre un visage sur le discours économique. 
+            - Henri et Marc-André
+            - Les économistes et leurs citations.
+                + Wikipedia
+        * Laisser le public approfondir ce qui l'intéresse.
+            - Intégration dynamique et interactive de rubriques.
+                + Expliqué ci-bas.
+        * La nécessité d'écarter certains aspects.
+            - La sélection restreinte de scénarios pertinents.
+                + Oublier la question des ressources nécessaire à un achat complètement local ?
+            - L'inclusion minimale des chiffres.
+                + Désir de complètement les écarter... Mais impossible.
+                + Nécessaires... mais secondaires.
+                + Les ramener plutôt à une échelle quotidienne. 10$ et non 1 000 000$
+    + L'économie du « _design_ » et le « _design_ » de l'économie
+        * - La réalisation que design et économie faisait bon ménage tout en étant exclus l'un de l'autre...
+            - J'ai découvert que le design et l'économique était intimement liés d'un point de vue méthodologique et analytique mais que concrètement, effectivement, rarement ils se joignaient. 
+            - Le design ne se réclamait peu de l'économique (du moins, explicitement) et l'économique ne s'habillait peu ou pas des atours du design. Pourquoi ces deux solitudes alors que chacune des disciplines gagneraient tant à s'entrelacer ? Question d'intérêts divergeants me suis-je dit. 
+            - Rares sont les designers qui s'intéressent à l'analyse économique et rares sont les éconmistes qui s'intéressent aux méthodes « design » de formulation esthétique de la fonction. Les « blogues » de plusieurs économistes peuvent être cités en exemples probants (REF : captures en annexe). Quelques un d'entre eux démontrent tout de même une ouverture (REF : Raworth)
+            - Je suis énormément de fils RSS d'économistes. Dans la ligne de commande (REF : capture d'écran en annexe). Le faire ainsi me permet d'outrepasser le mauvais design et les scripts ralentissant le chargement du contenu, ce pourquoi je les suis.
+            - J'écarte ainsi tout bruit (ou presque) et focalise donc sur le signal. (REF : Fils RSS en économie)
+            - Cette préférence informera mes décisions de conception.
+        * Dieter Rams
+            - Qui c'est ?
+            - Le minimum de design requis pour le bon fonctionnement de l'expérience.
+        * Otto Neurath, Brabury Thompson et le Bauhaus en inspirations artistiques.
+            - Itten et les couleurs
+                + Boilerpalette
+                + Palettes harmoniques
+        * Comment optimiser la forme ?
+            - Liberté rationnelle dans la création, motivée par l'atteinte efficace et efficiente d'un objectif précis. 
+                + En ce sens, les principes économiques sont mis à contribution.
+            - __Juste assez « joviale » pour faciliter l'absorption sans tomber dans l'infantilisation (?) sursimplifcation ? Caractère « niais » ?__
+            - __Trouver l'équilibre dans la tension dialectique.__
+                + __« Tout rapport reposant sur le principe de tension-opposition entre deux termes, deux situations, et dépassement de cette opposition. »__
+        * Les préférences subjectives et les incitatifs économiques comme moteurs de la consultation
+            - Faciliter l'attention, produire une sensation de personnalisation.
+            - Augmenter le bien-être lors de la consultation.
+        * L'efficience comme pierre angulaire du raisonnement décisionnel.
+            - Analyse coût / bénéfice
+            - Profiter au maximum de ce qui existe déjà
+            - Opter pour le minimum dont j'ai besoin.
+        * La performance comme valeur primordiale
+            - Lien avec l'efficacité économique
+            - Statistiques de visites en lien avec celle-ci.
+            - Je suis énervé par les production où l'on sent plus le besoin du concepteur de briller que son soin pour l'expérience de l'usager. Mon portable chauffe !
+                + Exemples de sites de la sorte.
+                + Exemples de galleries qui les promouvoient
+                + J'y ai participé malgré moi pendant les plusieurs années passées chez Deux Huit Huit.
+        * Exemples de rationalisation économique de décisions et de conception
+            - Récupération de contenus Wikipédia.
+            - Style graphique
+                + Polices typographiques « Web-safe »
+                    * Je me suis donné comme contrainte d'utiliser des polices de caractères largement pré-installées dans un souci de familiarité, simplicité et, surtout, de performance. En ayant pas à charger de polices spécifiques à ma plateforme, plusieurs bits d'information n'ont pas besoin d'être envoyés et reçus. Le rendu est ainsi plus rapide.
+            - Esthétique et « effet wow »
+            - Coût du code et du développement
+            - Une idée maîtresse par « écran »
+            - Capacité à être répétée dans le futur
+            - Caractère natif des technologies utilisées
+    + L'expérience centrée sur l'usager
+        * NNGroup
+            - Les principes heuristiques de l'expérience usager (REF)
+        * Adaptation au contexte
+        * Enjeu majeur : adapter ou non pour mobile...
+            - Le « responsive » (REF) qui veut que toute composition soit adaptative, optimale dans tout contexte d'usage, notamment en fonction des appareils employés. Cette méthode m'est chère pour des questions, entre autres, d'accessibilité, d'universalité. Mais pour ce projet-ci, elle fut toujours source de stress, de questions insolubles. La nature même de mon exposition demande un espace graphique suffisant et la fenêtre d'un téléphone mobile m'apparaît toujours plus inadéquate à la consultation et l'absorption de mon message. Il s'agit d'un enjeu crucial dont je n'ai toujours pas trouvé la résolution. Adapter ou non, telle est la question.
+        * Notion de découverte et usage des signaux et notifications. 
+            - Par exemple, on peut sauter des étapes dans la narration mais le fil d'ariane interactif se verra modifié, affublé d'un point d'exclamation pour signaler le « manque ». 
+            - À l'inverse un crochet pour signaler la complétion d'une étape serait de mise.
+        * Présenter les informations supplé/complémentaires dans le contexte. 
+            - Intégrer Wikipedia plutôt que d'envoyer l'usager à l'extérieur.
+        * Analyser sans tracer les comportements de visiteurs sur la plateforme. 
+            - Encore et toujours, la simplicité prime. Il devient donc ainsi inévitable de se délester des scripts « analytiques » typiques de Google. Lourds et fouineurs ils nécéssitent qu'on avise le visiteur selon la loi européenne. 
+            - Complexité supplémentaire dont je veux absolument me départir dans l'optique d'efficience et légèreté, mais aussi par respect pour la vie privée de mes visiteurs. L'alternative [nommer l'alternative] devient toute indiquée.
+    + La pile technologique supportant l'œuvre : le vieux, sûr et efficace
+        * Mon expérience m'a amené à valoriser ces facteurs.
+            - XML et XSL. 
+                + Interprétation dans le navigateur facilite le développement.
+                + Rapidité de rendu. 
+                + Légèreté : évite l'utilisation de « builds » en cours de développement.
+            - Le natif : HTML, CSS et Javascript à la vanille
+                + Mon médium de prédilection
+                    * Je produis tout avec le HTML & CSS. Mes documents académiques, mes demandes de subvention en cinéma, ce document même, etc.
+                    * La pureté ténébreuse de mon éditeur de texte et de ma ligne de commande me permettent de focaliser sur l'important. 
+                    * La forme du Web, interactive et expressive, me permet à son tour de m'exprimer en plusieurs dimensions...
+                + Explication du terme « vanille ».
+                + Contraste avec les nouvelles technologies de développement (Vue, React, Webpack, etc.). 
+                + _Citer des articles de blog_ (The Tangled Webs we Weave... Entropy... etc.)
+            - Éviter la base de données et le serveur. User de github pour l'hébergement statique.
+            - Google Sheets pour les données de formulaire
+            - Je tente tant bien que mal de créer une composition profitant des aspects les plus récents du CSS sans utiliser de Javascript. Le parcours est ardu et sinueux, maints essais et erreurs. 
+                + Vais-je trop loin ? Est-ce que je pêche par excès de purisme ?
+            - Le purisme : un fantôme qui hante mes décisions technologiques.
+    + Mon processus personnel de création
+        * TOC structurel.
+            - Tout est structure, structure, structure
+                + (Exemples en annexe)
+            - Les listes imbriquées
+            - Me salir les mains le plus rapidement possible
+                + Passer de l'idéation statique au développement dynamique
+                + M'obliger carrément à quitter le code qui peut devenir contraignant.
+        * Créer le contenu avant la mise en forme.
+            - Confronté plus souvent qu'autrement à cet enjeu en tant que concepteur interactif.
+            - Le message est le cœur de mon expérience et la forme suit la fonction du message.
+        * Procéder à l'aide de contraintes. 
+            - Des contraintes que je me donne moi-même en fonction des mes objectifs, en respect de la tradition du design.
+            - Toujours évaluer l'optimalité et l'efficacité des contraintes.
+            - En constante évolution, toujours remises en question dans leur application.
+    + L'Autre et ses commentaires
+        * Réception de l'écographie
+            - succès de la présentation
+        * Henri, partenaire économiste
+        * Alexandra, amoureuse/concubine et public-test.
+    + __La validation de mon hypothèse.__
+        * __Inclusion d'un questionnaire « en contexte ».__
+            - __Intégré à l'expérience et présents à des moments opportuns, en opposition à un formulaire à remplir, hors contexte.__
+- Chapitre III : l'œuvre et ses inspirations
+    + Isotype : Design et communication économique.
+        * Influence majeure.
+    + Les vidéos de Russ Roberts et le « Doughnut » de Kate Raworth.
+        * Contrairement à la vidéo, l'interface interactive permet d'aller à son rythme. De facilement passer outre des sections qui pourraient ne pas nous intéresser. De découvrir une partie des connaissances selon notre propre intérêt, dans un ordre qui nous sied mieux subjectivement.
+    + L'écographie : précurseur formel et premier test devant public.
+    + S'inscrire dans une mouvance de narrativité interactive...
+        * Les grands articles du New York Times ou du Washington Post sont un bon exemple. 
+        * The Pudding l'est aussi.
+            - Similaire en termes d'objectifs de communciation (faire comprendre une réalité à large auditoire généralement profane), simliraire dans les moyens (narrativité augmentée de visualisation, de données) mais distincte de ma forme, plus soignée, unique et artistiquement dirigée. L'expérience de l'usager sur The Pudding s'avère au final somme toute ordinaire, standard alors que du côté de Economia, elle se veut extraordinaire, unique dans son usage et l'impression qu'elle suscite.
+- Chapitre IV : retour analytique sur la création

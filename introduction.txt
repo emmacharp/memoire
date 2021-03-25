@@ -1,0 +1,41 @@
+\clearpage
+\pagestyle{fancy}
+\pagenumbering{arabic}
+\thispagestyle{empty}
+
+
+\begin{flushright}
+	« \emph{Tu vas étudier l'économie ? \linebreak
+	C'est quoi, tu veux porter des chemises beiges et travailler en finance ?} »
+
+	— Un proche ami de l'auteur.
+\end{flushright}
+
+\section*{Introduction et problématique}
+\addcontentsline{toc}{section}{Introduction et problématique}
+
+Le public s'intéresse peu ou pas à l'économie. Une vision érronée associant exclusivement l'économie à la finance, à la bourse, à *l'argent* quoi, est partagée. Plusieurs concepts économiques importants sont mécompris du public laissant libre cours aux idées reçues. La portée de ces idées reçues peut être considérable, leur prolifération, lourde de conséquences politiques et sociales. La communication économique de masse ne contribue pas à la capacité de public d'agir de manière informée. Elle présente plutôt des nouvelles et actualités économiques. On y traite de l'Économie, avec un grand « E ». En ce sens, la communication économique de masse désintéresse un large pan du public qui perçoit l'Économie comme une entité froide et aride, hors de leur contrôle. 
+
+Mais l'économie, sans grand « E », en tant que méthode d'analyse, en tant que discipline n'a pas besoin d'être aride. Elle peut aussi informer le public, lui donner des outils lui permettant de mieux appréhender les diverses décisions économiques qu'il prend *quotidiennement*. Oui, à tous les jours, chacun d'entre nous fait de l'économie, ne serait-ce que de manière inconsciente. En misant plutôt sur ces décisions quotidiennes, la communication économique ne pourrait-elle rapprocher l'économie de son public ? Mais encore, ne pourrait-on pas ainsi contribuer même à rapprocher le public de l'Économie, celle avec le grand « E » ? L'aliénation économique du public l'empêche de comparer rationnellement des politiques économiques alternatives. Elle facilite aussi le recours à des raccourcis, privant le public de la nuance nécessaire à une prise d'actions (politiques, sociales ou économiques) qui soient éclairées et efficaces. La communication économique peut faire mieux.
+
+D'autres avant nous ont tenté d'intéresser le public à l'économie. De lui faire comprendre sa réalité économique, de lui donner les outils pour mieux appréhender les politiques qui lui sont offertes. Mais les succès de cette communication économique *populaire* semblent rares. Néanmoins, l'un de ces succès remarquable, issu de l'entre-deux guerres, inspire ce mémoire de recherche-création. Otto Neurath, économiste marxiste associé à l'École autrichienne et Gerd Arntz, concepteur graphique et associé, lui, au Bauhaus ont joint leurs disciplines pour créer des œuvres de communication économique populaire qui ont jadis parcouru l'Europe. Comme Neurath et Arntz l'ont fait dans leurs expositions économiques ISOTYPE, nous allions *analyse économique* et *tradition du* design[^traditiondudesign], respectivement notre dada et notre pratique professionnelle, pour développer un modèle novateur de communication économique populaire. 
+
+__Economia__ propose de projeter la démarche d'Otto Neurath dans le XXI^e^ siècle en investissant le terrain interactif des technologies Web. Pour ce faire, nous solliciterons une conception économique tout aussi autrichienne que Neurath et nous nous laisserons inspirer, tout comme Arntz, par le mouvement Bauhaus. Mais surtout, nous bonifierons ces exemples historiques par des principes modernes, établis par des sommités de l'ergonomie interactive et du *design* de l'information. C'est ce bagage en main que nous tenterons avec « Economia présente : l'achat local » de réconcilier le public et l'économique. En rendant son raisonnement familier, loin du PIB, de la bourse et du taux de chômage, nous espérons encourager notre public à développer une sorte de conscience économique. 
+
+[^traditiondudesign]: Par « tradition du *design* », nous entendons la discipline de la conception pratiquée et théorisée par différents concepteurs, qu'ils soient architectes, graphistes ou développeurs. Il s'agit d'une mode opératoire d'épuration des possibilités de la conception se déployant de manière itérative. Le courant du « Bauhaus », tout particulièrement, nous inspire.
+
+> « Comment pourrait-on développer la conscience économique du public en faisant usage de notre pratique professionnelle de la conception interactive ? » 
+
+Voici la question à laquelle nous voulons répondre. Pour y arriver, nous émettons certaines hypothèses que nous tenterons de valider ne serait-ce que de manière heuristique, la méthode scientifique n'étant pas appliquée dans cette recherche. Ces hypothèses sont les suivantes :
+
+1. Une communication économique populaire, axée sur le quotidien du public, stimulera son intérêt en relevant le caractère fondamentalement humain de l'économie.
+
+2. Une interface interactive permettant l'expression des préférences individuelles du public facilitera l'assimilation de l'information par l'augmentation de la satisfaction. 
+
+3. Une mise en forme soignée, dans la tradition du *design*, contribuera positivement à entretenir l'attention du public pour la communication économique.
+
+Ces hypothèses éclairent la démarche et informent la méthode qui permettra de faire de __Economia__ un réel modèle de communication économique populaire. Elles se retrouvent testées au sein de l'œuvre associée à cette recherche-création, soit « __Economia__ présente : l'achat local ». Comme soulevé précédemment, il nous sera impossible de vérifier scientifiquement ces hypothèses. Néanmoins, un effort volontaire est fait pour tirer des leçons de l'œuvre grâce à des données récupérées.
+
+Le document d'accompagnement ci-présent supporte, définit et documente l'œuvre créée. Pour commencer, nous énoncerons le sujet puis cadrerons l'objet (la communication économique) et la pratique (la conception Web). Dans ce cadrage, nous unirons *analyse économique* et *tradition du* design pour ensuite les laisser s'entretoiser dans notre démarche et sa méthode. Informés par notre cadrage et notre démarche, nous exposerons l'œuvre et ses dimensions, là où se ressentent nos inspirations, nos procédés, et nos objectifs. Car ultimement, __Economia__ est une œuvre dont le développement fut économiquement rationnel[^rationnel]. __Economia__ est un moyen d'arriver à une fin. Sa production est donc sujette à économie. 
+
+[^rationnel]: Du moins, nous avons agi consciemment vers l'atteinte d'un objectif, dans les limites tracées par les ressources à notre disposition.

@@ -1,0 +1,169 @@
+\clearpage
+\thispagestyle{empty}
+
+# Chapitre II — La démarche et sa méthode
+
+Après avoir établi et délimité les champs dans lesquels s'inscrit __Economia__, nous allons exposer la façon dont nous allons investir ces champs. Notre démarche et la méthode par laquelle nous la menons seront exposées dans les pages qui suivent. Pour commencer, le développement de notre conscience économique sera présenté. Par la suite, depuis cette conscience et le cheminement qui nous aura motivé à produire l'œuvre interactive au cœur de ce mémoire, nous démontrerons la façon dont on cerne l'objet de la communication économique. Nous intégrerons par la suite, l'un dans l'autre, le *design* et l'économique. Nous détaillerons la technologie choisie pour supporter l'œuvre, en adéquation avec l'analyse économique qui en est faite. Finalement, notre processus de création complet sera résumé.
+
+## Le développement d'une conscience économique
+
+Des arguments économiques insondables pour la majeure partie d'entre nous justifient nombre de décisions affectant notre vie citoyenne. C'est en 2010 que la décision de remédier à cette incompréhension fut prise. Une impression lancinante d'être plus souvent qu'autrement trompés nous y aura poussé. Car le gouvernement se doit-il réellement de gérer son budget « comme le ferait un bon père de famille »[^bonpere] ? Ou le fait de « créer des emplois » devrait-il être une fin en soi ? Est-ce que les « retombées économiques » du Grand Prix appellent réellement les dizaines de millions en investissement octroyés par nos gouvernements (Orfali, 2019) ?
+
+[^bonpere]: Métaphore courante pour parler des finances publiques mais considérée erronée pour plusieurs considérant les particularités flagrantes séparant la famille et l'État.
+
+### Du Capital à la valeur subjective
+
+Le Capital de Karl Marx fut le point de départ de ce cheminement marqué par un intérêt particulier pour l'expérience communiste et par une méfiance envers les « puissants » et leurs capitaux. Cette lecture permit de justifier la méfiance ressentie. C'est après cela que, dans un esprit d'ouverture, un horizon étendu d'idéologies économiques fut parcouru. À travers « Le manifeste communiste », « La richesse des nations » de Adam Smith et « L'action humaine » de Ludwig von Mises, les notions de « rapport de force » et de « pouvoir de négociation », l'institution du « libre-marché » et la théorie de la « valeur subjective » furent découvertes.
+
+La théorie de la valeur subjective eut un impact majeur sur notre conception de l'ontologie économique. Elle fit glisser les notions objectives de coût et de profit, fondamentales à l'économique, vers des notions subjectives de « gêne » et de « satisfaction ». Tout individu cherche à minimiser sa gêne et maximiser sa satisfaction à l'instar d'une entreprise qui cherche à minimiser ses coûts et maximiser ses profits. L'économique occupe maintenant le domaine de l'humain.
+
+### Arracher les masques
+
+Profitant de cette nouvelle conception, des études universitaires en sciences économiques furent entreprises. Le désir d'appliquer et critiquer la logique économique motiva le besoin de la comprendre intimement. Durant ce parcours furent développés à la fois une fascination pour cette science humaine mais aussi un esprit profondément critique. Les lectures du « Petit guide d'autodéfense intellectuelle » de Normand Baillargeon (2005), philosophe de l'éducation et celle des deux tomes de l'« Antimanuel d'économie » du regretté Bernard Maris (2003 ; 2006), économiste français et fervent opposant du néo-libéralisme, furent toutes deux formatrices de cet esprit sceptique et critique. Les intentions énoncées ci-haut héritent largement de ces œuvres destinées à intéresser, éclairer et éveiller le public. Est partagé leur esprit contestataire et cynique, cynique dans le sens entendu par M. Baillargeon, soit « cette ambition de lucidité, cette exigence de ne pas s’en laisser conter, cette volonté d’arracher les masques » (Baillargeon, 2014).
+
+L'ensemble de la démarche communicationnelle ici exposée en est teinté. Car de cette conscience économique découle une envie irrépressible de la communiquer de manière à intéresser le public.
+
+### Pourquoi communiquer l'économique
+
+Bien plus que de produire de la connaissance économique, la partager et la nuancer nous intéresse. Il nous importe d'éclairer notre entourage quant aux réalités économiques, leurs subtilités, nuances et ramifications. Relever l'importance centrale que leurs questions revêtent dans nos vies de concitoyens apparaît d'autant plus important qu'est constaté un mélange de désintérêt et de confusion. La communication économique de masse repose sur la rhétorique élitiste et mathématique des économistes (McCloskey, 1985/1998). Lorsque l'intérêt s'avère, un imaginaire financier, boursier et industriel prime de manière généralisée. Il est postulé ici que cette communication économique de masse peine à informer et intéresser le public à son sujet. Tout comme une éducation secondaire qui assimile l'économique à la finance (Provencher, 2016).
+
+Une inconscience basculant chez certains dans la méfiance en résulte. Des tares sociales sont associées à ce désintérêt. Notamment, en découlent des politiques économiques sous-optimales, allant à l'encontre des intérêts de la majorité et justifiées par des métaphores inadéquates, l'une d'entre elles, le gouvernement en tant que « bon père de famille » étant exemplifiée ci-haut. En se désintéressant des questions économiques, socialement primordiales, le public laisse libre cours aux intérêts d'une élite manœuvrant les leviers économiques. Seulement en éveillant le public à ces réalités (Dewey, 1922) peut-il alors influencer le cours des politiques économiques.
+
+## L'économie du *design* et le *design* de l'économie
+
+C'est lors de notre parcours économique universitaire que nous avons compris que les disciplines du *design* et de l'économie faisaient et feraient meilleur ménage que cru jusqu'alors. L'acte de conception dans la tradition du *design* est intimement lié à l'analyse économique d'un point de vue méthodologique et analytique. Concrètement cependant, rarement se joignent-ils explicitement. Le « *design* » ne se réclame que peu ou pas de l'économique et de son côté, l'économique ne s'habille peu ou pas des atours du *design*. Pourquoi ces deux solitudes alors que ces disciplines gagneraient tant à s'entrelacer ? Question d'intérêts divergeants, peut-être ?
+
+### La rareté du *design* dans la communication économique
+
+Rares sont les *designers* qui s'intéressent à l'analyse économique et rares sont les éconmistes qui s'intéressent aux méthodes « *design* » de formulation esthétique de la fonction. Les blogues de plusieurs économistes peuvent être cités en exemples probants. Bien que quelques-uns démontrent une ouverture[^design-doughnut], surtout lorsqu'ils prétendent s'adresser au public, la majorité des économistes survolés gagneraient à présenter leur contenu dans la tradition du *design*. Ce manque d'intérêt pour le *design* nous pousse personnellement à consulter les blogues économiques à l'intérieur d'une interface purement textuelle, dans la ligne de commande. Le faire ainsi permet d'outrepasser la conception défaillante et l'enveloppe lourde de scripts et publicités ralentissant le chargement du contenu. Tout bruit peut ainsi être écarté au profit d'un signal dénudé.
+
+[^design-doughnut]: Voir le « beigne économique » de Kate Raworth ci-haut.
+
+\bigskip
+
+\begin{figure}[H]
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/econlib-site.png}
+    \caption{Article de blogue consulté dans Chrome}
+    \label{fig:f1}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/econlib-rss.png}
+    \caption{Le fil RSS de l'article dans un terminal}
+    \label{fig:f2}
+  \end{subfigure}
+  \caption{Même contenu essentiel, deux mises en forme}
+\end{figure}
+
+Cette préférence pour la pureté de l'information, pour un design qui soit minimal peut biaiser nos décisions de conception. Mais ce n'est pas pour « nous » que l'expérience est conçue mais bien pour le public. Et il est crucial de se le rappeler. Un équilibre optimal de design formel esthétique qui soit efficace dans sa fonction de capter l'attention des usagers tout en respectant les principes économiques énoncés doit être trouvé.
+
+### L'économie implicite du design
+
+Si l'économie et le design ne se joignent pas dans la communication économique populaire d'aujourd'hui, les deux disciplines recherchées ici furent malgré tout jointes à différents moments par de grands économistes ou de grands designers. Otto Neurath, nous l'avons vu, est l'un de ces économistes. Dieter Rams, lui est un de ces designers. Designer industriel chez Braun dans les années 70 et inspiration majeure derrière les appareils Apple (REF : comparaison), est reconnu par la communauté du design pour son énumération de grands principes. 
+
+Parmi ceux-là, existe « _Good design is as little design as possible_ » (Vitsœ, s. d.). Ce principe est éminemment économique, renvoyant directement aux notions d'optimisation et d'équilibre. Celui-ci guide la création du mémoire : le minimum de design requis pour le bon fonctionnement de l'expérience sera appliqué.
+
+La conception de l'expérience « Economia » est menée par une liberté de création rationnelle, motivée par l'atteinte efficace et efficiente d'un objectif précis. En ce sens, les principes économiques sont mis à contribution dans le processus de création et la formulation de contraintes de conception.
+
+### L'analyse économique et notre démarche de conception
+
+En premier lieu, les préférences subjectives et les incitatifs économiques sont déployés en tant que moteurs de la consultation. La possibilité de retirer les animations de l'expérience pourrait plaire à une frange non-négligeable des usagers. La permutation entre un thème sombre ou clair[^theme] de l'expérience, présentant, dès le chargement, une sélection tributaire du choix fait au sein du système d'exploitation (Paramètre de préférence présent sur MacOS) permet à l'usager d'exprimer ses préférences. Il est espéré que de procéder de la sorte facilitera le maintien de l'attention de l'utilisateur tout en produisant un sentiment de personnalisation. L'objectif ici étant d'augmenter la satisfaction de l'usager durant la consultation.
+
+[^theme]: Nouvelle caractéristique formelle de plusieurs applications Web.
+
+
+\begin{figure}[H]
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/jim-nielsen-dark.png}
+    \caption{Thème sombre}
+    \label{fig:f1}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/jim-nielsen-light.png}
+    \caption{Thème clair}
+    \label{fig:f2}
+  \end{subfigure}
+  \caption{Les thèmes affichés en fonction des préférences de macOS}
+\end{figure}
+
+Quant aux incitatifs, l'accent sera mis sur l'accès à de l'information complémentaire, disponible à même l'expérience permettant donc d'inciter l'usager à poursuivre sa découverte du monde économique. Les définitions de concepts clés ou les biographies d'économistes cités font partie de ces contenus complémentaires. La notion de découverte et l'usage des signaux de notifications seront aussi mis à contribution. Par exemple, un usager pourrait outrepasser des étapes de la séquence communicationnelle à sa guise mais dès lors, le fil d'ariane interactif se voit modifié, affublé d'un point d'exclamation pour signaler le « manque ». À l'inverse, un crochet sera affiché pour signaler la complétion d'une étape. Ces signaux visent à informer l'usager que du contenu demeure à consulter et ainsi donc tenter de l'inciter à y retourner.
+
+Il convient ensuite de bien asseoir l'efficience comme pierre angulaire du raisonnement décisionnel au sein du processus de conception. Pour ce faire, chaque idée de mise en forme est soumise à une analyse des coûts encourus dans sa matérialisation versus ses bénéfices anticipés. Les solutions développées seront donc celles possédant le meilleur rapport coût / bénéfice. Dans cet esprit économique, ce qui existe déjà et est libre d'accès est mis à contribution et seulement le minimum nécessaire au succès de l'expérience est mis à exécution, respectant ainsi le principe de Dieter Rams exprimé ci-haut. Concrètement, cette réflexion économique intégrée au processus de conception nous a mené à des choix précis. Ces choix et leur présence dans l'œuvre seront détaillés dans le chapitre suivant. Associons-en tout de même quelques-uns directement à l'alliage des disciplines.
+
+Par exemple, la récupération de contenus Wikipedia (dans le respect de leur licence) et leur intégration « en contexte » (Nielsen, 2004) dans l'expérience relève de la contrainte demandant de profiter au maximum de ce qui existe déjà.  La considération des coûts afférents aux concepts graphiques en termes de code et de développement relève quant à elle de l'analyse coût / bénéfice. Comme le dit une citation connue des programmeurs : « La meilleure ligne de code est celle que tu n'écris pas. Elle n'a pas besoin d'être testée ni documentée et ne bogue jamais » (Redfern, 2020). Chaque effet stylistique imaginé est donc jugé à la lumière de la valeur qu'il ajoute pour le code qu'il engendre. Son inclusion est contrainte à sa justification.
+
+Aussi, le style graphique choisi repose finalement sur des polices dites « Web-safe[^websafe] ». Ainsi est augmentée la familiarité du style graphique puisque l'usager devrait déjà avoir été exposé à ces polices dans l'utilisation normale de son appareil. Surtout, la rapidité du chargement de l'expérience est elle aussi augmentée en évitant le téléchargement des polices de caractère externes provenant d'un service tiers comme Google Fonts. Plusieurs bits d'information n'ont pas besoin d'être envoyés ni reçus. Le rendu de l'expérience à l'écran est ainsi plus rapide. On parle alors de performance, concept fondamental au développement interactif.
+
+[^websafe]: Web Safe : qui sont largement pré-installées dans les systèmes d'exploitation comme Mac OS, iOS ou Windows.
+
+### La performance comme valeur subjective 
+
+La performance s'avère être une valeur primordiale dans la conception de l'expérience. La performance est en lien direct avec l'efficacité économique. En maximisant la performance, on minimise la *gêne* ressentie par l'usager lors de la consultation. Les statistiques de visite démontrent son importance cruciale pour les usagers au chargement des pages mais aussi dans leur utilisation une fois chargées (Nielsen, 2010). Plusieurs plateformes démontrent plus fortement le besoin du concepteur de briller par sa prouesse conceptuelle et technique que son soin pour la fluidité et la simplicité de l'expérience de l'usager. Ces prouesses ont un coût se comptant en cycles de traitement par le processeur et l'énergie nécessaire pour le faire fonctionner. 
+
+Toute machine n'est pas apte à garder une fluidité dans l'usage d'une plateforme contenant de nombreuses images de haute résolution et où les animations fusent au défilement d'une page. Il en résulte alors une dégradation de l'expérience pour l'usager. Ces comportements de conception sont typiques dans l'industrie de la conception Web. Ils sont promus par des galeries (Awwwards, 2021) et des concours (Idéa, 2021). La rationalité économique de la conception ici exposée commande de s'éloigner de ces résultats et d'opter pour la performance avant tout.
+
+### Le respect de la vie privée
+
+S'associe à la performance le respect de la vie privée des usagers de __Economia__ dans la décision d'analyser, mais sans tracer, leurs comportements sur la plateforme. La simplicité du besoin minimal prime toujours. En concordance avec cette contrainte, se délester des scripts analytiques typiques de Google devient inévitable. Lourds et fouineurs, ils nécessitent désormais, selon la loi européenne sur les cookies et autres traceurs, que le visiteur en soit avisé. Il s'agit là d'une complexité supplémentaire ne survivant pas à l'analyse coût / bénéfice. Dans l'optique d'efficience et légèreté tout autant que par respect pour la vie privée des visiteurs, l'alternative « Plausible » (s. d.) devient toute indiquée. Elle ne nécessite pas de déclaration selon la loi et son poids en kilobits est substantiellement moindre que le script de Google (Ibid.).
+
+L'ambition de faire de « Economia » un modèle de communication économique interactive qui puisse être répété et adapté efficacement, soit rapidement et à peu de frais, exige qu'une réflexion économique à cette recherche-création. Son succès en tant que modèle en dépend. Tout comme il en dépendra des choix technologiques faits.
+
+## La pile technologique supportant l'œuvre
+
+De nombreuses années d'expérience de travail dans le domaine de la conception Web ont développé la valorisation de technologies ayant fait leurs preuves en passant le test du temps. Mais ce ne fut pas toujours le cas. 
+
+Comme bien d'autres jeunes concepteurs assoiffés de connaissances, les modes technologiques influencèrent autrefois notre pratique. Les nouveautés dans le domaine du développement Web excitent autant que dans toute autre industrie. Après avoir travaillé avec nombre de *framework*[^framework] et préprocesseurs[^preprocesseur] durant plusieurs années, il devint manifeste que la joie de la nouveauté et les quelques lignes de code épargnées ne faisaient que rarement le poids face à la difficulté de se rappeler le fonctionnement de ces concepts supplémentaires après des mois passés à l'écart. Avec le temps, ces méthodes de développement semblent augmenter substantiellement l'entropie, peut-être ennemie numéro un du développeur. Grâce à un long passage en agence — où il fut possible à la fois d'éviter et embrasser ces abstractions programmatiques — une conclusion s'imposa. Comme d'autres membres de la communauté du développement Web (Nielsen, 2020 ; Rupert, 2020) le croient, le *vieux* (en termes Web) et le *natif* (en termes Web) s'avèrent plus sûrs et efficaces que le *neuf* et le *tiers*.
+
+[^framework]: Traduit cadriciel, le framework impose une façon de coder précise et une nouvelle syntaxe souvent différente de toutes les façons et syntaxes existantes (Wikipedia, 2021).
+
+[^preprocesseur]: Un préprocesseur est un programme qui permet d'étendre les fonctionnalités présentes au sein des langages natifs. Une étape de compilation produit le langage natif brut qui est finalement fourni au navigateur. Le préprocesseur se développe parallèlement au langage qu'il étend (Wikipedia, 2016b).
+
+### Se contenter des langages natifs du Web
+
+C'est pourquoi le langage XML et son langage de transformation associé, le XSLT, sont utilisés dans le développement de l'œuvre.  Ces deux technologies ont l'avantage d'être robustes et éprouvées depuis maintenant plus de deux décennies — une éternité dans l'espace-temps numérique. Loin de la nouveauté, ces technologies conjointes ont largement été écartées du développement Web tout en restant nichées au sein des systèmes d'exploitation et de multiples logiciels allant de « Microsoft Word » à la série de jeux « Civilization ». Et pourtant, le XML et le XSLT présentent un avantage incomparable en termes de développement Web. Effectivement, le couple technologique XML / XSLT est nativement interprété par tous les navigateurs communs. Une fois le fichier sauvegardé il s'affiche instantanément à l'écran, peu importe le navigateur, sans aucune autre opération.
+
+Il en résulte la capacité de développer une application qui soit composée de manière modulaire et minimalement dynamique sans avoir à « construire » ou « empaqueter » le code, étape intermédiaire par laquelle tous les cadriciels récents (Vue, React, Angular, etc.) se doivent de passer. Cette étape de compilation vient avec ses propres dépendances, qui peuvent à leur tour présenter leurs lots de contraintes, limitations et bogues. En optant pour la simplicité et la légèreté d'une pile technologique fondée sur le couple XML / XSLT, on se déleste d'une longue et intriquée chaîne d'outils logiciels reposant eux-mêmes sur une autre chaîne de dépendances et ainsi de suite. Ce faisant, la complexité se voit minimisée. En se restreignant encore au minimum nécessaire, l'esprit d'économie au centre de la création de l'œuvre est respecté.
+
+Toujours dans cet esprit d'économie, cette fois en respect avec la contrainte d'utilisation maximale et profitable de ce qui existe déjà, sont employées seulement les trois technologies natives formant ce qu'on appelle le « *front-end*[^frontend] ». Cette triade de langages est composée du HTML, du CSS et du Javascript. Il existe encore une fois de multiples cadriciels, librairies et préprocesseurs pour ces trois langages, déployant eux aussi de nouvelles méthodes de travail et de nouvelles syntaxes à apprendre.
+
+[^frontend]: On pourrait traduire par « avant-plan ». Il s'agit de la couche graphique affichée dans le navigateur et de toute l'interactivité que cette interface procure à l'usager.
+
+Le refus de ces nouvelles technologies est maintenant appelé le développement « à la vanille[^vanille] ». La popularité des piles technologiques à la vanille décroît dans les dernières années au profit des librairies et cadriciels aux saveurs disparates (Nolan, 2016). La communauté du développement est aujourd'hui fracturée autour de ces usages. D'un côté, les « conservateurs » ne jurant que par les technologies natives à la vanille et les « progressistes » qui inversement ne jurent que par les abstractions technologiques récentes.
+
+[^vanille]: Cette expression désigne les langages dits « ordinaires » du Web, utilisés sans cadriciels, sans librairies, sans extensions.
+
+### Sans serveur, ni base de données
+
+Pour compléter cette pile technologique économique, toute base de données ou traitement par un serveur est évité. L'hébergement dit « statique » offert par Github s'intègre directement avec notre façon actuelle de « versioner » et sauvegarder le code. Cet hébergement est gratuit et rapide. Il permet aussi d'accoler le nom de domaine de notre choix à la plateforme. Nous n'avons besoin de rien de plus. Pour la gestion des formulaires, étant donné que la dépendance à une base de données est écartée, la puissance des « Google Sheets » sera harnachée. Effectivement, ce tableur en ligne peut être accédé par un script personnalisé. Il est possible à la fois d'y déposer sous forme de tableau les réponses données par les usagers aux questions qui leur sont posées ainsi qu'il est possible de les quérir pour les afficher dans l'expérience lorsque nécessaire. Cette façon gratuite de stocker les données apparaît aussi simple qu'efficace. Ces deux dernières décisions quant à la pile technologique supportant l'œuvre se fondent dans la contrainte de maximisation de l'usage de ce qui existe déjà.
+
+## Le processus personnel de création
+
+### Structurer la démarche pour mieux créer
+
+L'organisation de notre pensée en structures de toutes sortes se retrouve au cœur du processus de création. Qu'il soit question de rédaction, de conception ou de développement, des structures sont toujours produites. À l'aide de listes imbriquées, nous distillons et articulons le fond de notre pensée. C'est avec cette méthode structurelle qu'est rédigé et créé le contenu textuel et graphique au centre de l'œuvre faisant l'objet de ce mémoire. 
+
+
+![Le contenu structuré de l'œuvre de notre recherche-création](images/list-structure-vim.png)
+
+
+La création de ce contenu précède par ailleurs toujours la forme qu'il prendra. « La forme suit la fonction », dit-on. Le message et sa communication étant le cœur de l'expérience ici proposée, la forme se collera donc à la fonction du message. Trop souvent avons-nous été confrontés à des clients ne sachant ce qu'ils voulaient communiquer et nous demandaient par conséquent de leur produire un cadre dans lequel ils inséreraient le contenu que ledit cadre allait leur inspirer. Le résultat de ce processus inversé laissait immanquablement à désirer, le contenu final ne s'enchâssant que maladroitement dans une forme qui avait été conçue à l'aveugle. Néanmoins, la production du message n'est pas toujours simple sans avoir une forme en vue et donc un va-et-vient où l'un nourrit l'autre à tour de rôle doit être envisageable. Il demeure que la forme est la dernière à être terminée assurant une adéquation efficace avec la substance qu'elle habille.
+
+### Les contraintes dans notre pratique du design
+
+D'un point de vue conceptuel, il nous est aussi important de joncher de contraintes le cheminement vers la forme finale. La tradition du *design* repose sur ces contraintes sans lesquelles elle se rapprocherait plutôt de l'art pour l'art. Le *design* implique un objectif à atteindre, un cadre dans lequel œuvrer, renvoyant toujours à des notions économiques. L'économie relève de l'étude des moyens mis en pratique dans l'atteinte d'un objectif. Les contraintes de conception émergent à la fois de l'objectif visé et des moyens déployés pour y arriver. Elles prennent la forme de limitations, d'obligations, d'enjeux ou d'opportunités, d'équilibres à atteindre. Plusieurs des contraintes données dans la conception de la création ont déjà été exposées plus haut. Les contraintes en question relèvent généralement de la performance et de la familiarité, formes concrètes de l'efficience efficace recherchée. En ce sens, l'essence des contraintes inscrites dans le raisonnement conceptuel ici fait n'est pas différente de celles qui seraient inscrites dans tout autre projet reposant sur notre pratique du *design* d'interface interactive.
+
+### Le code comme espace et matière
+
+Un aspect atypique de notre pratique personnelle réside dans la hâte avec laquelle l'écriture de code est effectuée. Peut-être s'agirait-il par ailleurs d'un péché créatif considérant qu'il puisse souvent arriver que la phase d'esquissage soit escamotée du processus de conception. D'emblée, à l'aide de code, la concrétisation dans le navigateur de la vision est tentée. Ce faisant, le code devient matière de prédilection, avec laquelle les idées sont explorées, expérimentées, sculptées puis validées. Cette technique présente l'avantage de rapidement rapprocher le concept de l'environnement dans lequel il vivra. Le concepteur est dès lors plus à même d'évaluer la justesse du concept envisagé.
+
+Toutefois, elle présente potentiellement l'inconvénient d'aussi rapidement borner la créativité. Certaines explorations s'avèrent fastidieuses à concrétiser en code et d'autres peuvent rapidement être écartées dès que le coût en termes de lignes de code est constaté. Il s'agit là d'une méthode afin de limiter l'horizon infini de possibilités conceptuelles. Mais est-ce une méthode juste ? La question se pose par exemple lorsque devient apparent l'entêtement à itérer une idée à l'aide de code alors que celui-ci s'avère récalcitrant. Pourquoi ne pas être déjà passé au logiciel de conception voire au papier ? Peut-être s'agit-il d'orgueil, d'une manie ou d'une obsession à utiliser le code comme outil de création. Difficile de trancher. Malgré ces enjeux, il nous est d'avis que le matériel « code » est généralement porteur d'efficacité conceptuelle. Il demeure que le concepteur doive s'en extirper fréquemment afin de librement et rapidement tester une hypothèse conceptuelle sur papier. La valeur formelle de la création ne peut que s'en trouver grandie.
+
+### Cumuler les perspectives au fil de la conception
+
+Finalement, au sein du processus personnel de création se trouve aussi l'Autre. Il importe, à différents jalons du parcours créatif, de projeter l'œuvre en gestation sur autrui. Non seulement commentaires et suggestions sont-ils récoltés, mais s'ouvre aussi l'accès à une perspective nouvelle, extérieure au tunnel conceptuel dans lequel se retrouve le concepteur en période de création. Multiplier les perspectives s'avère primordial dans l'exercice de la création. De prime abord, nous nous appuyons sur Alexandra, concubine mais aussi public-test. Ses impressions sont d'autant plus importantes dans le cours de cette recherche-création qu'elle est une complète profane en économie. De surcroît, elle ne s'y intéresse qu'indirectement. Le fait qu'elle comprenne la communication et exprime un intérêt pour elle devient un signal indiquant que la création se trouve sur une bonne piste.
+
+Après Alexandra vient Henri, partenaire économiste dans la création de « Economia ». Son bagage étant à l'opposé de celui de Alexandra, sa perspective lui est complémentaire. Son focus est chirurgical. Il relève rapidement le surplus d'information ou de forme, les lacunes dans l'expression vulgarisée d'un concept. Il fut d'un grand secours dans le maintien du concepteur sur le chemin de « l'action » et éviter les diversions vers les avenues essentiellement théoriques, tendance évoquée plus haut.
+
+Ces deux regards complémentaires s'avèrent précieux dans les balbutiements de la création. Une fois celle-ci développée à un stade qui soit publiquement acceptable, amis, connaissances et collègues sont appelés en renfort. À ce moment sont recueillies de multiples impressions parcourant un éventail de perspectives qui seront assimilées puis évaluées. Il devient dès lors nécessaire d'entretenir une vision robuste de l'œuvre afin d'éviter le « *design* par comité ». C'est pourquoi en grande partie cette phase de test sur auditoire étendu se fait attendre. Elle demeure néanmoins une partie intégrante du processus créatif tirant à sa fin. L'œuvre à ce stade est à toutes fins terminée. Une dernière itération demeure où seront intégrés les ajustements découlant de  l'évaluation de la réception de l'œuvre par l'auditoire de test élargi. C'est à ce moment que « __Economia__ présente : l'achat local » peut être diffusée ouvertement.

@@ -1,0 +1,8 @@
+\clearpage
+\thispagestyle{empty}
+
+\section*{Conclusion}
+\addcontentsline{toc}{section}{Conclusion}
+
+\subsection*{À venir}
+\addcontentsline{toc}{subsection}{À venir}

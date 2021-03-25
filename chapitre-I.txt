@@ -1,0 +1,346 @@
+\clearpage
+\thispagestyle{empty}
+
+# Énoncé et cadrage
+
+Economia, c'est une recherche-création qui se propose d'allier « analyse économique » et « tradition du design » dans la conception Web d'un modèle interactif de communication économique populaire. « Conception Web » et « Communication économique » demeurent les deux champs que nous explorerons, guidés par le modus operandi des deux disciplines précitées.
+
+Dans ce premier chapitre, nous énoncerons une conception subjective de l'économique qui informera notre communication. Nous distinguerons entre communication économique de masse et communication économique populaire. Nous présenterons ensuite quelques œuvres de la communication économique populaire contemporaine afin d'y comparer Economia. Nous présenterons par la suite une inspiration majeure qui entreprit, elle aussi, d'allier « analyse économique » et « tradition du design ». Cette inspiration nous permettra de passer au champ de la « Conception Web », là où un portrait de son évolution et de son état actuel sera dessiné afin de comprendre la culture Web dans laquelle Economia s'inscrit. Finalement, nous exposerons les façons dont l'analyse économique balisera notre acte de conception.
+
+## Nous faisons tous de l'économie
+
+L'économie est au centre de nos vies quotidiennes. Sans même y réfléchir, nous faisons sans cesse de l'économie. Plusieurs dictons représentent bien cette économie « quotidienne ». « Le jeu en vaut la chandelle » est un bon exemple de ces expressions portant en elles une bonne dose de réflexion économique. « Faire d'une pierre deux coups » en est une autre. Économiser fait partie de la condition humaine. C'est une question de rareté. On ne peut tout faire, ni tout avoir. 
+
+L'économie est une science des moyens. Des moyens qui sont rares mais nécessaires à l'atteinte d'objectifs, eux, multiples et exclusifs. L'économie est moralement et éthiquement aveugle. L'agent économique[^agent] décide des fins désirées puis applique les outils de l'analyse économique pour parvenir à ces fins. C'est pourquoi il est toujours grinçant à notre oreille de lire ou entendre « C'est bon pour l'Économie ». L'Économie, avec un grand « E », est un moyen d'atteindre une fin, un objectif. Alors, « c'est bon pour qui, pour quoi ? » quand c'est bon pour l'Économie ?
+
+[^agent]: Un agent économique est tout simplement un individu agissant, posant des actions économiques au sein d'un système donné.
+
+L'économie, en tant que mot et en tant que concept, possède deux vies bien différentes. Il y a, premièrement, « l'Économie », c'est-à-dire la somme des actions de tous les agents économiques et deuxièmement « l'économie », c'est-à-dire, l'analyse rationnelle de l'efficacité d'allocations alternatives de ressources rares quant à l'atteinte d'objectifs prédéterminés. Les ressources rares prennent toutes sortes de formes. Il s'agit bien évidemment de métaux, combustibles fossiles, travailleurs, capitaux, etc., champ général de l'Économie discutée dans les médias de masse. Mais ce n'est pas le seul champ où l'analyse économique peut s'avérer fructueuse. Nous pouvons appliquer leurs outils à maints usages quotidiens — comme le démontrent par ailleurs les expressions relevées plus haut. 
+
+L'économiste George Stigler (1984), dans un article scientifique fameux, suggéra que l'économie en tant que discipline puisse être une « science impériale », c'est-à-dire, une science qui pourrait investir le domaine de toutes les autres étant donné le caractère universel de ses fondations théoriques. Le temps, par exemple, est une ressource rare et donc sujet à l'analyse économique. Dès même qu'on prend une décision qui aura comme incidence la consommation ou non d'une certaine quantité de temps, on économise. Ce n'est pas dit qu'on économisera de manière à générer l'effet désiré de manière optimale. Au contraire, on se trompe même souvent (Fox, 2015). Mais dès qu'on tente d'optimiser, de produire un effet de manière à ce qu'il coûte le moins cher possible, on économise.
+
+Par exemple, l'une des premières manifestations personnelles de ce constat, fut quand il nous est apparu que, de manière quasi-automatique, nous nous dirigions toujours vers la porte du métro qui serait devant la sortie de notre destination. Notre objectif étant de se rendre à destination le plus rapidement possible, nous profitons de l'attente avant que le train arrive pour minimiser le coût de transaction qu'est l'usage du métro. Optimiser est un comportement largement répandu qui n'est pas intuitivement lié à l'économie mais devrait l'être. Car nous faisons tous de l'économie.
+
+## La *communication économique* comme objet de création
+
+### Le problème de la communication économique
+
+L'une des hypothèses émises est que la confusion et le désintérêt du public résultent largement du traitement froid, industriel et calculateur que réserve la communication économique de masse à son sujet. Or, l'économique n'a fondamentalement rien de ces attributs colportés ; au contraire, il s’agit d’une science essentiellement humaine dont les lois et principes se répercutent à tous les niveaux de nos vies quotidiennes, perspective par ailleurs adoptée par maints et maints économistes de renom (Marshall, cité dans Stills et Merton, 2000, p.151 ; Mises, 1949/1985 ; Menger, 1871/1976/2007, pp. 46, 56).
+
+Par exemple, déjà, en 1871, William Jevons (p. 61), économiste anglais reconnu pour sa contribution à la théorie de l'utilité marginale écrivait ceci : 
+
+> « Pleasure and pain are undoubtedly the ultimate objects of the calculus of economics. To satisfy our wants to the utmost with the least effort — to procure the greatest amount of what is desirable at the expense of the least that is undesirable — in other words, to maximize pleasure, is the problem of economics. »
+
+Le plaisir et la douleur sont sans aucun doute les objets ultimes de l'analyse économique. Jevons n'était pas le seul à associer ainsi analyse économique et expériences humaines. Son compatriote anglais, Alfred Marshall, insistait quant à lui sur le déplacement de la discipline économique d'une étude des marchés vers l'étude des comportements humains. Et pourtant, que rarement la communication économique de masse actuelle aborde-t-elle son sujet d'une manière qui soit liée à l'expérience du plaisir et de la douleur. On parle plutôt de PIB, d'Index, de marchés, du prix du brut, etc. Il s'agit là d'objets économiques n'ayant que très peu à apporter au public en termes d'information. Comment un profane peut-il se servir de ces « informations » dans ses actions et ses prises de décisions quotidiennes [^inforatio] ? Dans un contexte pareil, on ne doit être surpris d'observer que le public s'en désintéresse et qu'il peine à comprendre de quoi il en retourne (Runge & Hudson, 2020, p. 174). Même pour une partie de la classe politique, les économistes utilisent trop de jargon (Pannell, 2004). Pour engager le public, il faut « associer les concepts économiques à l'expérience quotidienne » (Communicating Economics, 2017) et éviter la rhétorique obscure (McCloskey, 1985/1998).
+
+[^inforatio]: Neil Postman (1985/2006) insiste sur la nécessité pour l'information d'être « actionable », c'est-à-dire de mener vers ou faciliter une action valable. De l'information n'étant pas « actionable » n'est que bruit. Cette proposition est acceptée en ces pages.
+
+Malgré donc qu'une large part d'économistes reconnus pour leurs théories aient insisté sur la nature fondamentalement humaine de l'économie, celle-ci, en tant que discipline autant qu'en tant que méthode analytique, demeure aujourd'hui largement étrangère au public. Le problème de la communication économique en est un de point de vue. Elle traite de son sujet d'un point de vue objectif, décrivant le comportement de concepts extrêmement abstraits, suivant les sursauts d'indicateurs étrangers à l'expérience quotidienne du public. Loin du « plaisir » et de la « douleur » ou de la « gêne » et de la « satisfaction » de Ludwig von Mises, premier économiste autrichien sur lequel nous nous appuierons plus tard pour élaborer notre conception de la communication économique. Mais avant, pour mieux situer __Economia__ distinguons deux grands champs de communication économique. 
+
+### Les deux grands champs de la communication économique
+
+Economia, en tant que communication économique, s'oppose à la communication économique que nous qualifierons « de masse » et s'inscrit plutôt, à l'inverse, dans le champ d'une communication économique que nous dirons « populaire ». Distinguons les deux formes de communication pour bien établir champ de la communication économique populaire à laquelle nous associons notre œuvre.
+
+La communication économique de masse, portée par des émissions telles que « RDI économie » avec Gérald Fillion, ou « À vos affaires », avec Pierre-Olivier Zappa. « À vos affaires », nouvelle émission démarrée le 11 janvier 2021, promet de « démystifier un sujet aride » (LCN, 2021). Cependant, à l'image de « RDI Zone économie », les sujets de « À vos affaires » ne touche principalement pas l'économie, tel que fait par __Economia__, mais plutôt l'Économie avec un grand « E », c'est-à-dire, les nouvelles économiques, les acquisitions d'entreprise, les impôts, etc.
+
+\bigskip
+
+\begin{figure}[H]
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/rdi-zone-economie.png}
+    \caption{RDI Zone économie}
+    \label{fig:f1}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/a-vos-affaires.png}
+    \caption{À vos affaires}
+    \label{fig:f2}
+  \end{subfigure}
+  \caption{Exemples de communication économique « de masse »}
+\end{figure}
+
+Ces deux émissions « étalons » de la communication de masse se retrouvent dans le cycle des nouvelles. Elles font non seulement, entre autres, dans l'actualité économique mais aussi elles sont présentées par des journalistes sur des canaux de télévision expressément dédiés aux nouvelles, soit LCN et RDI. Elles font donc partie de médias de masse, sont largement diffusées et malgré les prétentions de « À vos affaires », s'adressent somme toute à des auditeurs initiés ou intéressés par l'actualité économique et non au public en général.
+
+À l'inverse, la communication économique dite « populaire » en ces pages s'adresse pour sa part au public en général. Elle se distingue de la communication de masse par la teneur de son propos et sa position extérieure au cycle des nouvelles. Elle se retrouve particulièrement sur le Web et non dans les médias de masse traditionnels. Ses auteurs sont généralement des économistes et non pas des journalistes. Une touche artistique supplémente généralement le propos et en ce sens, les productions de communication économique populaire peuvent pour certaines se rapporter à des « œuvres ». 
+
+La communication économique populaire présente des visées informatives, éducatives ou pédagogiques. Et à celles-ci s'ajoute pour plusieurs d'entre elles une visée idéologique. Effectivement, la plupart des œuvres de communication économique populaire répertoriées supportent et défendent une idéologie économique claire et précise. Notamment l'idéologie capitaliste du « libre-marché » s'y retrouve défendue par un large pan des œuvres que nous aurons parcourues. Une École économique, aussi radicale que marginale, soutient la majeure partie de ces œuvres de communication économique. Une École mentionnée ci-haut et offrant un soutien fondamental à ce mémoire de recherche-création : l'École autrichienne d'économie.
+
+### L'École autrichienne d'économie
+
+Hétérodoxe, l'École autrichienne d'économie se consolida au tournant du XX^e^ siècle. Carl Menger en fut le premier représentant. Avec William Jevons et Léon Walras, Menger est vu comme étant l'un des trois grands théoriciens de l'utilité marginale[^utilitemarginale] comme déterminant de la valeur économique, concept maintenant fondamental à la grande majorité des écoles économiques mais qui à l'époque s'avérait être révolutionnaire alors que depuis plus de 100 ans on associait la valeur économique à la quantité de travail qui était matérialisé dans un bien[^laborvsmarginal]. Cette découverte théorique eût l'effet d'une bombe dans la discipline économique. Il est intéressant de noter que les trois économistes ci-haut auraient chacun élaboré le concept d'utilité marginale indépendamment les uns des autres. Comme quoi, le temps de la « valeur subjective » était venu. Et par le fait même, celui de la conception subjective de l'économie.
+
+[^utilitemarginale]: Le concept d'utilité marginale soutient que la valeur qu'un agent retire d'un bien économique change avec la quantité qu'il consomme dudit bien. Il faut donc voir la notion de valeur comme étant associée à la consommation d'une unité *supplémentaire* du bien. Ce concept déplace la notion de valeur depuis l'objet (travail) vers le sujet (agent).
+
+[^laborvsmarginal]: La guerre idéologique entre les tenants de la théorie de la valeur-travail et ceux de la valeur marginale est bien connue et documentée. Peu nombreux sont les économistes aujourd'hui épousant encore la théorie de la valeur-travail.
+
+Malgré ce point de départ commun, l'École autrichienne s'est rapidement éloignée des deux autres écoles économiques de l'époque, soit l'École de Cambridge, en Angleterre, où Jevons enseignait et l'École de Lausanne, en Suisse, où Léon Walras enseignait pour sa part. Effectivement, alors que les deux autres écoles se lançaient dans l'économétrie (Cambridge) et la modélisation abstraite de l'économie (Lausanne), l'École autrichienne, elle, allait plutôt s'enraciner dans le terreau de l'action humaine en préconisant une approche déductive et logique plutôt qu'une approche empirique et mathématique. Encore aujourd'hui, l'École autrichienne d'économie se distingue grandement de par son appréhension humaine de l'économique et sa réticence à accepter les concepts de l'école néoclassique tels que l'équilibre général[^equilibregeneral] ou de l'agent représentatif[^agentrepresentatif].  On y a largement rejeté l'utilisation de la formalisation mathématique pour lui substituer une logique déductive (Mises, 1949/1985 ; Menger, 1871/1976/2007) aux lacunes scientifiques incontestables (car nombreux sont leurs postulats infalsiables) mais néanmoins valable ne serait-ce que d'un point de vue communicationnel. Il est plus évocateur de s'adresser au public à l'aide d'exemples consistants et contextualisés — comme le disaient Walter Lippman (1922) et Neil Postman (1985/2006) — plutôt que par des méthodes statistiques. La conception subjective de l'économie facilite notre communication et pourra même orienter notre démarche de création.
+
+[^equilibregeneral]: Équilibre général : état économique stable et harmonieux où *tout* produit trouve son consommateur par l'intermédiaire du prix.
+
+[^agentrepresentatif]: Agent représentatif : abstraction logique servant à réduire les préférences personnelles de chacun des innombrables agents économiques en un seul agent représentant la moyenne.
+
+### La conception subjective de l'économie
+
+Effectivement, le retrait mathématique et l'insistance sur le caractère ultime de la décision puis de l'action humaine (qui furent des aspects instrumentaux à la naissance de mon propre intérêt) font de la conception autrichienne de l'économie une conception beaucoup plus près de la vie quotidienne du public, en phase avec les outils logiques en sa possession (les mathématiques échappant à la majorité). Ludwig von Mises (1949/2004), tout particulièrement, transposa les notions de coût et profit, notions objectives et matérielles, en *gêne* et *satisfaction*, notions subjectives et humaines. Le principe de maximisation de la satisfaction aux dépens de la gêne (peu importe en quoi elles consistent), ramène l'analyse économique à une échelle humaine, permettant ainsi l'exposition de concepts clefs ou de phénomènes anticipés de manière incarnée, à des lieues des considérations mercantiles du profit formant la communication économique de masse.
+
+#### La gêne et la satisfaction comme moteurs de l'action humaine.
+
+Selon Mises, il n'y a économie que parce que des humains rationnels agissent. Pourquoi ces humains agissent-ils ? Parce qu'ils ressentent de la « gêne », sensation désagréable que l'humain agissant tente de réduire à néant en visant un état inverse de « satisfaction ». Sans gêne, pas d'action. L'humain dès lors qu'il n'éprouve plus de gêne se retrouverait dans un état d'harmonie complète entre son monde intérieur (ses besoins, ses désirs, ses émotions) et son environnement extérieur. L'humain n'aurait ainsi plus besoin d'agir. Il serait dans un état constant de contentement statique et l'économie ne serait plus. Sans action, pas d'économie (Ibid.).
+
+De cette conception « praxéologique[^praxeo] » (Ibid.) de l'économie résulte une cascade d'axiomes logiques autour desquels s'orchestre la perspective de l'École autrichienne d'économie. Cette perspective s'avère être ultra-libérale, c'est-à-dire centrée presque exclusivement sur la notion de liberté de l'action humaine. Toute politique visant à entraver une action humaine qui serait autrement libre implique le contrôle coercitif de l'État sur l'action humaine, une hérésie nous menant droit sur le « chemin du servage » (Hayek, 1944/2009). Il en résulte une idéologie radicalement individualiste, ne laissant aucune place aux notions de communauté ou de société.
+
+[^praxeo]: Dérivé de *praxis*, « praxéologie » est le terme qu'employait Mises pour distinguer l'étude des actions humaines de celle des marchés, appelée « cattalaxie » par Mises.
+
+Il nous importe ici de clarifier que cette perspective idéologique de l'économie n'est pas la nôtre. Bien que nous soyons en accord avec les postulats de base et que nous en fassions un usage étendu dans cette recherche-création, nous ne croyons pas aux conclusions tirées de ces postulats. L'ontologie économique de l'École autrichienne nous sert de point de départ dans notre communication économique. « L'action humaine » conditionne notre approche de la communication économique. La perspective humaine et quotidienne que nous adoptons dans __Economia__ nous place en marge de la communication économique d'aujourd'hui, qu'elle soit *de masse* ou *populaire*.
+
+### La communication économique populaire d'aujourd'hui
+
+La communication économique est un enjeu épineux pour la discipline en question (Polek, 2010). Plusieurs économistes s'y sont essayés et d'autres continuent encore cette tentative de rejoindre un public populaire, allant au-delà des murs académiques et du milieu des affaires. Déjà, pendant l'âge d'or de l'École autrichienne d'économie, un économiste instrumental à ce mémoire tentait de rejoindre les masses en les informant de leur réalité économique. Nous reviendrons plus tard sur Otto Neurath, principale inspiration de cette recherche-création. Depuis Neurath, des économistes notoires tels que Milton Friedman ont produit des œuvres culturelles sous diverses formes. Nous nous arrêterons sur certains exemples de cette tentative de communication économique populaire.
+
+#### Milton Friedman.
+
+Milton Friedman, économiste mondialement reconnu pour avoir contribué à l'essor de la perspective économique néolibérale, a tenté un rapprochement avec le public des années quatre-vingt avec sa série documentaire « Free to Choose » (Friedman et Friedman, 1980a). Cette série en dix épisodes est un fier hommage au libre-marché. Dans un exemple encore cité aujourd'hui, Friedman explique comment le libre-marché aura réussi à fabriquer le crayon qu'il tient dans sa main (Friedman et Friedman, 1980b). Toute une chaîne d'agents économiques se coordonnent à l'aide du signal de prix. Le crayon nécessite du plomb, du bois, le bois nécessite des scies à chaîne et ainsi de suite.
+
+\bigskip
+
+![Milton Friedman et son crayon de plomb (1980b)](images/milton-friedman-pen.png)
+
+Seul un marché libre peut fabriquer ce crayon aussi efficacement en coordonnant les actions d'agents étrangers les uns des autres grâce au motif de profit et la médiation du prix. On y défend une idéologie qui serait politiquement considérée de droite. Il s'y trouve une défense de principes et concepts allant au-delà de la simple analyse économique. Une sorte de prosélytisme du libre-marché semble sous-tendre toute la série.
+
+Nous prenons la peine de nous arrêter sur cet exemple vieillot car il aura ouvert la voie à une majeure partie des œuvres de communication économique que nous avons pu survoler dans les dernières années. Les voix qu'on pourrait considérer de *droite* nous sont apparues à la fois plus populaires et plus nombreuses que leur reflet de *gauche*. Il semblerait aussi, toujours en adéquation avec « Free to Choose », que la communication économique populaire tende à mettre de l'avant une perspective macroéconomique[^macroeconomique] et normative[^normative]. On ne propose pas au public des outils pour mieux aborder ses actions économiques, on lui propose plutôt des idées auxquelles souscrire.
+
+
+[^macroeconomique]: Une perspective macroéconomique s'attardera à la totalité du libre-marché, de l'État, du Consommateur, etc. Elle opère à un niveau d'aggrégation élevé.
+
+
+[^normative]: Par exemple : « on devrait libéraliser le marché davantage », « il faut consommer moins », « il faut moins taxer les créateurs de richesse » , etc.
+
+
+#### Russ Roberts, économiste et communicateur.
+
+Parmi les quelques économistes contemporains s'adonnant à la communication économique populaire, Russ Roberts, économiste et professeur à l'université Stanford, nous apparaît comme le plus actif et aussi, le plus populaire en termes de succès de ses œuvres de communication économique. Il est actif sur plusieurs plateformes et médias mais ici, ce qui nous intéresse sont ses œuvres vidéos, deux en particulier qui représentent bien la perspective macroéconomique et normative dont nous avons fait mention ci-haut.
+
+##### « It's a wonderful loaf », un poème animé.
+
+L'une des œuvres vidéo de Russ Roberts, « It's a wonderful loaf » (2017) prend la forme d'un poème animé, selon ses propres mots. Il s'agit d'une ode au pouvoir du libre marché où l'on suit l'émergence d'un « ordre spontané » à l'intérieur du marché du pain. Le poème se déroule dans un univers fantaisiste où chaque individu est un agent économique qui maximise son profit en répondant aux besoins des autres agents et, ce faisant, il contribue à l'établissement d'un ordre spontané, juste et efficace, où chacun trouve son compte, librement, sans jamais avoir à contraindre personne. Il s'agit là de la magie du libre-marché, la « main invisible[^maininvisible] » de Adam Smith (1776/1990) à l'œuvre.
+
+[^maininvisible]: La « main invisible » est un concept économique fourre-tout qui tente d'imager la façon dont les agents économiques sont portés à contribuer au bien-être des autres en cherchant à maximiser leur propre bien-être. Bien que Smith ne l'ait utilisé qu'une seule fois dans un livre de quelque mille pages, sa « main invisible » est encore et toujours invoquée plus souvent qu'à son tour.
+
+\bigskip
+
+\begin{figure}[H]
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/wonderful-loaf-bakery.png}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/wonderful-loaf-mill.png}
+  \end{subfigure}
+  \caption{L'imagerie métaphorique de « It's a Wonderful Loaf » (2017)}
+\end{figure}
+
+
+Cette vidéo de 6 minutes vue plus de 1.5 millions de fois explore un monde fantaisiste et métaphorique où tous les agents sont indépendants et transigent directement les uns avec les autres. Aucune place n'est faite aux corporations, aux gouvernements ni aux institutions en général. On nous présente une économie idéalisée afin de nous convaincre de la primauté du libre-marché et de la nécessité de l'étendre. La vidéo utilise par ailleurs une esthétique mignonne qui, au minimum, sert à gommer les lacunes dans la représentation de la réalité économique. On assoit ainsi le caractère fantaisiste et métaphorique qui permet la suspension consentie de l'incrédulité.
+
+Cette œuvre apparait comme une entreprise idéologique et non informative. On y défend une vision, une conception du monde et de l'économie. Mais que reste-t-il au public à la fin du visionnement ? Cette exposition au caractère céleste et magique du libre-marché ne procure aucune information qui soit « actionable » (Postman, 1985/2006). Le public de la vidéo ne peut s'en servir pour orienter et informer ni leurs prises de décisions ou leur action concrète. Il convient de répéter ici que c'est exactement ce que nous ambitionnons d'accomplir avec « Economia » : informer la prise de décision et d'action quotidienne par la communication économique populaire.
+
+##### Keynes vs. Hayek : Rap battle.
+
+Dans une tentative d'utiliser les formats et memes contemporains, Russ Roberts a aussi produit une œuvre vidéo s'insérant dans l'art du « Rap Battle » (Roberts, 2010). On y retrouve Friedrich Hayek et John Maynard Keynes, deux des plus grands économistes du XX^e^ siècle, se renvoyer la parole tour à tour dans un clip aux allures de « *gangsta rap* ». Le clip met en scène le débat jamais résolu entre les deux économistes[^hayekkeynes] aux visions opposées. Simplement, M. Keynes était en faveur de l'intervention étatique comme stimulant pour l'économie alors que celle-ci se trouve en état de récession ou dépression. M. Hayek, pour sa part, refusait toute intervention étatique dans l'économie. Pour ce dernier, toute action gouvernementale allait au mieux, être stérilisée par les agents économiques touchés qui reverront leurs plans en fonction de l'action gouvernementale. Au pire, l'action gouvernementale allait détourner des ressources essentielles à des usages inefficaces et ainsi faire perdurer la période d'incertitude économique.
+
+[^hayekkeynes]: F. Hayek et Lord Keynes furent contemporains. Bien qu'amicaux et respectueux l'un de lautre, un fossé idéologique les séparait et les opposait sur toutes les questions économiques de l'époque.
+
+\bigskip
+
+\begin{figure}[H]
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/rap-battle-sticky-wages.png}
+    \caption{Les concepts économiques avancés}
+    \label{fig:f1}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/rap-battle-keynes-hungover.png}
+    \caption{La gueule de bois de Lord Keynes}
+    \label{fig:f2}
+  \end{subfigure}
+  \caption{Russ Roberts vulgarise la forme, non le contenu}
+\end{figure}
+
+L'œuvre en tant que telle est maladroite. Le désir de communiquer avec les adolescents et jeunes adultes crève l'écran. Si on se fie aux statistiques de consultation, il convient d'affirmer que le pari fut probablement gagné. Effectivement, la vidéo a maintenant été vue plus de 7.5 millions de fois. De loin le plus grand succès des œuvres que nous survolons. Mais malgré ce succès, il convient aussi de se demander encore une fois : qu'est-ce que le public retire comme information de cette œuvre vidéo ? Il y est question de « Boom » (croissance) et de « Bust » (récession), deux termes de jargon signifiant le cycle des affaires, concept macroéconomique aux applications quotidiennes rares. En expliquant ce concept, et les positions opposées des deux pugilistes, Russ Roberts déploie un impressionnant vocabulaire qui n'est jamais défini. On tente de faire comprendre que M. Hayek — économiste autrichien, rappelons-nous — a raison de dédaigner l'intervention de l'État dans l'économie. Mais encore, en quoi est-ce que cette entreprise idéologique aide notre public à agir ?
+
+Russ Roberts se présente comme un économiste et communicateur. Sans doute cette présentation est-elle juste. Néanmoins, il faut aussi reconnaître que Russ Roberts, associé à l'École autrichienne d'économie, communique une perspective bien précise, bien arrêtée et bien abstraite de l'économie. Difficile de retirer de l'information « actionable » de ses œuvres. Elles opèrent à un niveau d'abstraction trop élevé et, dans les deux cas présentés ci-haut, peinent à vulgariser le contenu plutôt que la forme. En ce sens, ces œuvres et leur intention sont diamétralement opposées à « Economia » et nos propres intentions.
+
+#### La *droite* idéologique et la communication économique.
+
+Les deux auteurs d'œuvres de communication économique survolés jusqu'à présent, Milton Friedman & Russ Roberts, sont associés à la droite économique. Ce n'est pas anodin. Depuis les dix dernières années, nous avons suivi moult vulgarisateurs et communicateurs économiques. Nous en tirons le constat que la droite économique est beaucoup plus présente et populaire que son rival de gauche. Aucun lien de causalité n'est tenté ici, un constat est tout simplement fait. Nous relevons ci-bas certaines de ces initiatives de communication économique populaire.
+
+##### Tyler Cowen et son comparse, Alex Tabarrok.
+
+L'équipe de Tyler Cowen et Alex Tabarrok, tous deux professeurs d'économie à la George Mason University au sein du « Mercatus Center », — où par ailleurs Russ Roberts a aussi officié — a lancé la Margin Revolution University (Cowen et Tabarrok, 2012-), une série de capsules vidéo distribuée sur Youtube et destinée au public. Le ton y est léger, avec une insistance marquée sur les effets graphiques. À l'instar de leur collègue Roberts, la forme, elle, est vulgarisée, alors que la matière demeure généralement abstraite. Au-delà de ces considérations formelles, la Margin Revolution University présente des intentions éducatives, voire académiques. Il s'agit d'un cours d'économie 101 avec cependant plusieurs exemples destinés au public. On ressent un soin notable y être porté. Quelques vidéos s'avèrent communiquer de l'information « actionable » bien que la visée ultime et le noyau du message demeure l'enseignement d'un concept. Par exemple, M. Tabarrok, en visite en Inde, explique qu'économiquement parlant, en tant que touriste, il était économiquement sensé de s'y faire couper les cheveux. Que les *iPhone* coûtaient sensiblement la même chose là-bas qu'aux États-Unis mais que les coiffeurs étaient pour leur part beaucoup moins chers (Tabarrok, 2017).
+
+
+\begin{figure}[H]
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/marginal-revolution-university-intro.png}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/marginal-revolution-university-disco.png}
+  \end{subfigure}
+  \caption{La « MRU » et son esthétique populaire (Cowen et Tabarrok, 2012)}
+\end{figure}
+
+Il y a un travail considérable porté à la communication populaire par MM. Cowen et Tabarrok. Bien qu'ils soient eux aussi associés au mouvement libertarien et à l'École autrichienne d'économie, entre autres, leurs interventions et initiatives éducatives présentent une relative neutralité idéologique. On veut moins y vendre le libre-marché que chez Roberts même si, ultimement, leur programme économique en est un de libre-marché. Cowen et Tabarrok ont produit plus de neuf-cents (900) capsules vidéos dont plusieurs sont vues des centaines de milliers de fois. Leur chaîne Youtube est suivie par plus de 245 000 internautes. Margin Revolution University et le blog — beaucoup plus technique — dont le nom Margin Revolution est tiré ajoutent une autre voix libérale voire libertarienne à la communication économique populaire.
+
+##### Les Tuttle Twins : enseigner les préceptes autrichiens aux enfants.
+
+Encore du côté de la théorie économique autrichienne, une autre voix, s'adressant elle aux enfants, s'est élevée cette fois-ci dans les livres. Les Tuttle Twins (Boyack, s.d.) est une série de livres pour enfants traitant pour chacun d'entre eux de l'un des préceptes du libertarianisme. L'École autrichienne d'économie est une pierre d'assise de ce mouvement ultra-libéral. Il n'est donc guère surprenant de trouver dans cette série des citations de Friedrich Hayek, qu'on retrouvait ci-haut dans un combat de *rap* avec Lord Keynes. Les jumeaux Tuttle y découvrent donc les vertus du libre-marché grâce à leur camion restaurant dans le stationnement de l'Église. Ils expérimentent aussi l'intervention perturbatrice de « l'État » quand un autre enfant, « subventionné » par ses parents se stationne au même endroit leur propre camion restaurant et coupe les prix en deçà du coûtant des jumeaux (Boyack, 2020).
+
+\begin{figure}[H]
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/tuttle-twins-cover.png}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/tuttle-twins-subsidy.png}
+  \end{subfigure}
+  \caption{Les Tuttle Twins expérimentent l'injustice des subventions (2020)}
+\end{figure}
+
+Nous n'avons réussi à évaluer la popularité de ces œuvres de communication économique populaire. Mais le fait qu'elles soient destinées aux enfants nous a accroché. À vrai dire, cette série de livres est ultimement destinée aux parents à tendance libertarienne. À travers des scénarios enfantins se trouvent finalement des positions idéologiques, autant économiques que politiques, partageant les mêmes racines autrichiennes que Cowen, Tabarrok, et, à fortiori, Russ Roberts. 
+
+La voix économique austro-libertarienne vibre plus intensément que toute autre voix dans le domaine de la communication économique populaire. Avec quelque neuf à dix millions de vues cumulées sur Youtube, l'idéologie économique libertarienne domine toute autre école ou idéologie que nous ayons pu trouver. Quelques voix s'élèvent tout de même de différents horizons économiques. Elles n'ont tout simplement pas la même pénétration et, à priori, ne suscitent donc que moins d'intérêt.
+
+#### La *gauche* et le *centre* de la communication économique populaire.
+
+La communication économique de droite nous est apparue relativement vigoureuse. Considérant que la communication économique populaire soit somme toute un courant de niche, les millions de vues de des œuvres vidéo de Russ Roberts exposées ci-haut sont considérées comme des succès. Mais qu'en est-il de discours économiques divergeant de la droite libertarienne ? Ont-ils eux aussi des succès se chiffrant dans les millions de vues ? Pas que nous sachions, non. Quelques voix et initiatives centristes d'un côté et progressistes de l'autre se démarquent d'un lot que nous avons recherché. Néanmoins, leur succès demeure au mieux limité. Plusieurs de ces initiatives autrement importantes et porteuses ne semblent pas, sur Youtube du moins, générer autant d'intérêt que les poèmes animés ou les « Rap Battle ». Pour bien délimiter l'espace dans lequel s'inscrit Economia, nous en relèverons deux.
+
+##### Justin Wolfers : l'économie utile.
+
+Justin Wolfers est professeur d'économie à l'Université du Michigan et auteur, avec sa partenaire Betsy Stevenson, d'un récent livre académique « Principles of Microeconomics » présenté par son éditeur comme « traitant chaque décision prise comme une décision économique » (Ford School, 2019). Cette perspective plus « quotidienne » devrait intéresser davantage les étudiants, croient-ils. Cette approche s'apparente à la nôtre de par son ancrage dans la réalité quotidienne. Wolfers devient donc une inspiration à suivre. Contrairement à plusieurs exemples précités, Wolfers n'axe pas sa communication sur la promotion d'une idéologie, il l'axe plutôt sur l'information « actionable » qu'il peut fournir à ses interlocuteurs. Ses articles dans les journaux (2017) ou ses vidéos (2019) distribués sur Youtube gardent ce même angle. Son apparition sur la scène de la communication économique populaire est relativement récente (moins de 10 ans). Ce fait peut possiblement expliquer son pauvre auditoire moyen (dans les bas milliers de visionnements). Nous croyons qu'il s'agisse d'une voix plus centriste à suivre dans les années à venir.
+
+#### Kate Raworth : le beigne économique..
+
+Kate Raworth est une autre voix économique ayant récemment émergé mais pouvant être considéré de *gauche* cette fois-ci. Kate Raworth s'est fait connaître pour la promotion de sa théorie du beigne économique (Doughnut Economics)(2017). Elle y défend l'idée que la masse de l'activité économique mondiale se doit de demeurer à l'intérieur d'un seuil et d'un plafond. Le seuil, représente les besoins de biens économiques nécessaires et le plafond, la capacité de notre environnement à accueillir notre activité économique. Cette théorie récente est d'un intérêt grandissant à l'ère des changements climatiques. Elle n'a cependant encore qu'une portée limitée si on se fie aux visionnements cumulés sur Youtube.
+
+![Le diagramme du « beigne économique » (Raworth, 2017)](images/kate-raworth-doughnut.jpg){width=80%}
+
+Kate Raworth nous est intéressante car elle promeut un modèle économique apparaissant plus durable que celui régissant notre activité actuelle. Sa démarche est toutefois distincte de la nôtre au sein de __Economia__. Non seulement, comme plusieurs autres auteurs abordés ci-haut, elle se pose à un niveau d'abstraction macroéconomique mais aussi sa théorie du beigne économique est son seul cheval de bataille. Elle demeure du côté normatif, promouvant une meilleure façon de vivre. Encore une fois, des aspirations étrangères à Economia.
+
+#### __Economia__ et les œuvres répertoriées.
+
+Les œuvres de communication économique répertoriées ci-haut partagent pour la plupart des caractéristiques que __Economia__ ne partage pas. Notamment, plusieurs d'entre elles utilisent le medium vidéo, ce que __Economia__ ne fait pas, préférant l'interactivité du medium Web. L'interactivité est donc essentiellement écartée de toutes les œuvres ci-haut. Economia ne partage pas non plus la perspective idéologique de plusieurs. __Economia__ ne tente pas de convaincre son public de la supériorité d'un système ou d'un autre, __Economia__ tente d'informer l'action de son public en exposant un raisonnement économique nécessaire à la prise de décision éclairée. Nous ajouterons à ce résumé du rapport entre __Economia__ et les œuvres répertoriées en rappelant que la plupart se retrouvaient à un niveau d'abstraction élevé, macroéconomique, loin de l'action humaine au centre de Economia.
+
+Comme c'est le cas pour __Economia__, plusieurs œuvres présentées dans ce corpus se réclament de l'École autrichienne d'économie et de ses disciples les plus illustres, Mises et Hayek. Néanmoins, de notre côté ces deux derniers économistes sont subordonnés à un autre, issu lui aussi de l'École.
+
+## Otto Neurath et sa démarche comme inspiration principale
+
+Il est intéressant de noter déjà à quel point, malgré un statut marginal dans la profession économique contemporaine, l'École autrichienne d'économie est présente dans la communication économique populaire et dans les inspirations et références de cette recherche-création. Il le devient d'autant plus que l'inspiration principale de ce mémoire, Otto Neurath, est non seulement issu de la même école autrichienne, mais que de surcroît il était le collègue étudiant de Ludwig von Mises (Poettinger, 2014), rencontré ci-haut pour sa conception économique fondée dans l'action humaine. Mais encore est-il intéressant de relever que malgré ce même contexte, Neurath en est sorti avec des vues diamétralement opposées à celles typiques de cette École et portées par son contemporain Mises. Effectivement, plutôt que de se tourner vers l'ultra-libéralisme, Otto Neurath adopta les vues économiques marxistes et socialistes mais, tout en épousant les vues subjectives fondées de l'action humaine partagée par ces collègues autrichiens. Cette posture le rendit aussi marginal au sein de l'école que dans les rangs socialistes. Hétéroclite, Neurath, après quelques années passées dans la fonction publique autrichienne, se dévoua à l'alliage de sa passion pour l'illustration et la tradition du design à sa profession d'économiste (Neurath, 2010).
+
+Dans son autobiographie graphique, « Des hiéroglyphiques à Isotype » (Ibid.), il explique comment, enfant, il baignait dans les milliers de livres que son père détenait dans son impressionnante bibliothèque à laquelle le jeune Otto eût rapidement accès. C'est en possession de cette expérience qu'il comprit le pouvoir d'exposition des images. C'est dans l'entre deux guerres qu'il s'appariera de Gert Arntz, concepteur graphique suisse influencé par le mouvement Bauhaus (Wikipedia, 2016a), pour créer ISOTYPE, langage graphique constitué d'icônes et destiné à mieux communiquer l'économique au public (Neurath, 1936).
+
+![Meta-représentation : le public devant ISOTYPE (Ibid.)](images/isotype_1936-neurath-metascene.png)
+
+Sur plusieurs années, Neurath et Arntz travaillèrent à développer et étendre ensemble ce langage alors que Neurath multipliait les expositions d'œuvres de comunication économique dans les musées européens. L'ambition de Neurath était de faire comprendre au public la réalité économique dans laquelle il se trouvait (Neurath, 2004, p. 236) en lui parlant le langage de la vie quotidienne (Neurath 1945/1973, p. 231, cité dans Cat, 2019). Et sa philosophie par rapport à cette entreprise est bien représentée dans cette réflexion : « It is better to remember simplified images, than to forget exact figures. » (Gerd Arntz Web Archive, s. d.).
+
+\begin{figure}[H]
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/modern-man-in-the-making-neurath-economic-scheme.png}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/modern-man-in-the-making-neurath-living-conditions.png}
+  \end{subfigure}
+  \caption{Œuvres ISOTYPE (1939) diffusées dans les musées de l'époque}
+\end{figure}
+
+C'est ainsi que Neurath entrepris de communiquer au public une connaissance plus élargie de leur réalité économique. Neurath espérait amener le public à pouvoir comparer des alternatives économiques. Il percevait cette communication comme étant nécessaire à l'émancipation du public, à une prise de décision rationnelle et informée (Nemeth, E., Schmitz S. W. et Ubel, T. E, 2007, p. 4). En ce sens, Otto Neurath s'avère nous être une inspiration précieuse. Ses intentions trouvent écho dans les nôtres. Son désir était d'informer et non convaincre de quelconque perspective idéologique. Ses œuvres infographiques, modèle de communication graphique à l'essor duquel Arntz et lui ont grandement contribué, ne comportent presque pas de texte, elles reposent plutôt sur le langage graphique et la riche étendue de ses icônes représentant autant concepts que machines, industries et ethnies.
+
+\begin{figure}[H]
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/isotype_1936-neurath-people.png}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[b]{0.48\textwidth}
+    \includegraphics[width=\textwidth]{images/modern-man-in-the-making-neurath-meal-times.png}
+  \end{subfigure}
+  \caption{Le public de ISOTYPE et un diagramme de la routine alimentaire}
+\end{figure}
+
+Le recours à la communication graphique et la tradition du design chez Neurath en fait une inspiration inévitable d'une recherche-création qui se propose d'explorer la communication économique à travers le prisme de cette tradition de l'acte de conception. Surtout que notre création s'articule autour d'un diagramme constitué d'icônes. Mais encore plus que la similarité de nos moyens de communication, c'est la similarité de nos fins qui en fait à nos yeux une inspiration incontournable. Neurath, contrairement aux descendants actuels de l'École autrichienne présentés ci-haut, cherchait à développer des méthodes pour informer les décisions du public qui détient l'ultime jugement. Cela est nécessaire pour l'avancement de la démocratie croyait-il (Ibid., p. 3). Ce vœu est celui que nous faisons en développant Economia. Nous ne voulons pas convaincre notre public d'un idéal abstrait nous cherchons à éclairer sa prise de décision en exposant l'arbitrage inhérent à toute action économique. Comme le demandait Neurath : qui gagne ? qui perd ? (O'Neill, 2007, p. 90).
+
+Sans un regard clair sur ces implications le public risque d'agir en contradiction avec ses objectifs et visées. C'est ce que Neurath voulait résoudre il y a maintenant cent ans. Et ce à quoi nous aimerions contribuer, ici. Otto Neurath croyait alors que le musée du futur devrait se déplacer chez le public plutôt que l'inverse (Hartmann, 2014, p. 280). En projetant la démarche de Neurath dans l'univers virtuel du Web, nous espérons honorer sa vision d'une communication économique se déplaçant chez son public.
+
+## La *conception Web* comme pratique interactive
+
+Economia se veut l'alliage des possibilités de la conception Web à la communication économique populaire. Notamment l'interactivité, développée itérativement, dans la tradition du design, est utilisée à des fins de facilitation et d'incitation. Notre travail de conception cherche à donner un contexte de consultation qui soit enviable pour notre public. L'interactivité permet à l'usager de définir certaines préférences au sein de l'œuvre et de complémenter son expérience par la découverte d'information supplémentaire. Nous y reviendrons plus tard. Commençons par un survol historique de l'application de la tradition du *design* à la conception Web.
+
+### La tradition du design et la conception Web
+
+Depuis que Douglas Engelbart fit sa célèbre démonstration dans les années soixante[^engelbart], toute une culture de l'interface interactive s'est développée. Plusieurs branches grandissent encore aujourd'hui, parmi lesquelles se trouve la conception d'interface Web[^interfaceweb]. Cet univers de conception virtuelle aura grandement évolué depuis sa démocratisation naissante au milieu des années quatre-vingt-dix.
+
+[^interfaceweb]: Par *Web*, on entend « qui fait usage des technologies associées à la plateforme Web » et donc qui évolue dans ses opportunités, contraintes, possibilités et limitations.
+
+[^engelbart]: La présentation surnommée « The Mother of All Demos » peut être visionnée ici : https://youtu.be/yJDv-zdhzMY
+
+#### Les débuts du Web commercial : une enfance difficile.
+
+Le Web, tel qu'imaginé par Tim Berners-Lee, serait une plateforme d'échange de connaissances, libre et décentralisée (Ossola, 2019). Il est important d'insister sur la notion de connaissance et la forme qu'elle prenait dans les esprits derrière le déploiement du Web. La connaissance, c'était textuel. Avec possiblement quelques images ajoutées en support, ici et là. On ne s'imaginait pas, à cette époque, l'ampleur que prendrait l'usage de la plateforme Web. Cette plateforme est au centre de toute la coordination internationale, elle s'est immiscée partout dans les vingt dernières années. On y fait l'épicerie, on y commande son souper, on y recherche son doctorat, etc. Derrière les interfaces qui permettent d'agir ainsi virtuellement des équipes de conception, développement et production sont à l'œuvre. La tradition du design tranquillement s'y est fait son chemin.
+
+Pensée pour échanger des documents textuels librement, la plateforme évolua vers un univers virtuel ou tout devient toujours plus possible. Les débuts de cette croissance furent difficiles. La plateforme Web du tournant du siècle en était une de particularités différentes d'un navigateur à l'autre. Les interfaces étaient limitées à l'usage de tableaux dont on détournait le rôle afin de pouvoir assembler les pièces de l'interface. Le développement des sites Web tenait plus de la résolution de casse-têtes que de la rédaction de document textuels. Les *campings* n'ont que très peu à dire mais beaucoup à montrer. Déjà à l'époque on avait perçu le potentiel mercantile d'une telle plateforme. Le maintien et l'évolution des sites Web s'avérait difficile et coûteux.
+
+
+![Exemple de site « casse-tête » typique au tournant du millénaire[^puzzle]](images/park-org-puzzle-site.png)
+
+[^puzzle]: https://park.org/main.html
+
+La nature « casse-tête » de l'interface impliquait l'usage de multiples logiciels et diverses techniques qui n'ont plus rien à voir avec le développement d'interface d'aujourd'hui. Là où à l'époque changer « Bio » pour « Biographie » dans la page d'un chanteur connu pouvait nécessiter 1 heure de travail dans Photoshop[^photoshop], modifier le terme « Bio » aujourd'hui devrait généralement prendre tout au plus quelques minutes et, peut-être, au-delà seulement dans de rares cas. Après une période qu'on qualifierait de « far-westienne » (Wikipedia, 2021), des « standards » (W3C, 2021) sont émergés. De ces standards (et de leur propagation) découle en grande partie l'aise relative avec laquelle nous pouvons maintenant faire progresser nos interfaces Web.
+
+[^photoshop]: Adobe Photoshop est le canon du logiciel de traitement et de composition d'images.
+
+#### L'avénement des standards Web.
+
+C'est grâce (au minimum en partie) aux standards que la tradition du design, jusque-là hésitante, pu finalement investir la conception Web puis s'y développer. « Designing with Web standards » (Zeldman, 2003) est un jalon remarquable de ce tournant pour les interfaces Web telles qu'on les connaît. Jeffrey Zeldman, auteur dudit livre, est largement considéré comme un pionnier au sein de la communauté Web. Il y plaide pour une conception, héritière de la tradition du design, qui soit sémantique, structurée, cohérente. La conception Web doit s'articuler autour de deux langages : le HTML, comme langage de balisage et le CSS, comme langage des feuilles de style. La conception doit se déployer dans le cadre des standards établis quant à l'utilisation de ces deux langages. Le HTML s'écrit d'une certaine façon, le CSS d'une autre. Finis les sites Web rendus par la balise « table », relevant du casse-tête. De surcroît on établit de « bonnes pratiques » qui devraient généralement, sauf exceptions, bien sûr, être mises en œuvre. Les fondations de la plateforme Web actuelle étaient construites.
+
+À travers les évolutions des langages HTML, CSS et aussi, aujourd'hui surtout, Javascript, la tradition du design s'est déployée en culture. On peut maintenant accomplir énormément avec les interfaces Web actuelles, dynamiques, interactives, *intelligentes*. Inévitablement, le développement de plateformes Web telles que Facebook, Gmail ou Twitter, implique une énorme et grandissante complexité. Face à ces défis d'ingénierie logicielle se développent parallèlement aux langages HTML et CSS de multiples librairies de code qui aident à gérer la complexité. Celles-ci font généralement la vie dure aux standards et aux « bonnes pratiques ».
+
+Dans le développement de « Economia » nous allons garder comme principe général et contrainte de conception l'adhésion aux standards Web et bonnes pratiques d'origine. Nous allons donc opter, à moins d'ultime nécessité, pour l'utilisation stricte des simples langages cités ci-haut. Sans cadre de travail ni librairie.  Nous élaborerons plus bas lorsque nous traiterons de méthodologie. Mais déjà, cette adhésion aux standards et « bonnes pratiques » place Economia en marge de la culture actuelle de la conception et du développement d'interfaces Web.
+
+### Inspirations pour notre conception Web
+
+Notre acte de conception se laisse inspirer et guider par des principes précis, établis par des experts dans deux champs complémentaires. Ces principes transparaîtront dans notre méthode de création et dans les solutions qui en jailliront. Nous nous poserons sur la démarche et sa méthode dans le chapitre à venir. Arrêtons-nous pour l'instant sur lesdits experts.
+
+#### Edward Tufte.
+
+Edward Tufte, professeur multidisciplinaire à l'Université Yale, est reconnu dans le monde de la conception pour ses livres traitant du *design* de l'information et comme critique acerbe de l'usage de logiciels comme Power Point pour présenter données et informations. Dans l'un de ses livres, « The Visual Display of Quantitative Information » (Tufte, 2001/2007), il établit plusieurs principes auxquels il souscrit tout en invitant les concepteurs à faire de même. Quelques-uns de ces principes nous sont importants de par leur pertinence à notre démarche. Nous les traduisons ci-dessous.
+
+##### Amener l'observateur à penser à la substance plutôt qu'à la méthodologie, la conception graphique, la technologie ou autre.
+
+Ce principe s'applique à notre démarche sous plusieurs angles. Nous devrons, pour le suivre, faire attention de bien doser les interactions, animations et autres artifices. Il faut réconcilier, dans un juste équilibre, cette vision de substance avec, comme le soulevait Otto Neurath, le goût du public pour le moderne. Il est important pour nous d'apprécier et évaluer l'œuvre sous la lumière de ce principe.
+
+##### Encourager l'œil à comparer différents morceaux de données.
+
+Dans notre communication économique au sein de l'œuvre, nous désirons amener le public à pouvoir évaluer différents scénarios, en adéquation avec ce que Otto Neurath avançait, et maintenant en adéquation avec ce que Edward Tufte pose comme principe de visualisation de données. C'est dans notre diagramme de la chaîne économique que ce principe trouve son champ d'application. Nous verrons ci-bas, dans le chapitre III, quel dispositif scénaristique nous amène à pouvoir comparer et évaluer options mutuellement exclusives. Et ce faisant, nous garderons en tête ce principe de Tufte.
+
+##### Révéler les données à plusieurs niveaux de détail, du survol grossier à la structure fine.
+
+Encore une fois le diagramme de la chaîne économique, qui ultimement s'avère être le principal mécanisme par lequel nous présentons des données, s'avère aussi être le champ d'application de ce principe. Ce diagramme est devoilé dans l'œuvre de manière à découvrir le détail en plusieurs étapes, du plus « grossier » vers le plus « précis ». Le chapitre III exposera cette progression dans la scénarisation de l'œuvre.
+
+Quelques autres des principes de Tufte nous sont pertinents bien qu'à degré moindre. Citons-les rapidement.
+
+« Éviter de brouiller ce que les données ont à dire », est une question d'éthique et de transparence. Il nous est important de l'être et ne croyons pas que quelconque enjeu particulier puisse se dresser pour tester notre adhérence à ce principe moral. « Présenter les données », en est un autre. Il apparaît simple, mais il s'agit du premier des neuf principes, comme quoi peut-être est-il moins appliqué qu'on ne pourrait le croire. Nous croyons encore pouvoir respecter de principe sans obstacle.
+
+Edward Tufte est mondialement reconnu pour son travail sur la présentation graphique de l'information et des données. À maintes reprises a-t-il été pour nous une inspiration dans notre pratique professionnelle de la conception Web, où données et informations devaient être justement présentées. Il le demeure dans cette recherche-création. Terminons avec l'introduction d'Edward Tufte à ses principes : « Excellence in statistical graphics consists of complex ideas communicated with clarity, precision, and efficiency. ». C'est ce que nous avons tâché de faire.
+
+#### Le Nielsen Norman Group.
+
+Le NNgroup est la référence contemporaine en termes d'ergonomie et expérience utilisateur, ce qui dans le jargon de l'industrie Web se dit « UX ». Après les principes de communication de l'information de Tufte, posons-nous sur les principes ergonomiques de Nielsen qui guident tout autant notre démarche créative. Comme chez Tufte, les principes de Nielsen ne s'appliquent pas tous aussi intensément à notre œuvre. « Flexibilité et efficacité d'usage » puis « Design esthétique et minimaliste » sont pour notre cas les plus porteurs. Mais surtout, au-delà de ces principes, le NNgroup offre de la recherche sur une multitude d'aspects de la nature interactive du Web. Notre démarche de conception interactive cherche à valider plusieurs décisions de par leur adéquation à leurs conclusions de recherche.
+
+## Rallier analyse économique et tradition du design
+
+Comme l'aura fait Otto Neurath avant nous, nous cherchons à communiquer l'économique au public et nous cherchons à le faire dans la tradition du design. Le Web étant notre médium de prédilection, nous y ancrons ces intentions. Web et tradition du design ne font bon ménage que depuis tout récemment. Les œuvres de communication économique populaire que nous avons survolées sont toutes aussi récentes, la plupart étant près de cent ans plus jeunes que les expositions d'Otto Neurath. Ces œuvres récentes présentent une forme populaire, voire vulgaire qui bien que présentant un talent graphique généralement satisfaisant ne peut prétendre hériter de la tradition du design dont nous faisons usage dans cette recherche-création. Le recours au médium vidéo ne permet pas d'appliquer aussi largement les principes énoncés ci-haut. 
+
+Ainsi nous croyons novateur notre modèle interactif de communication économique. Non seulement parce que nous allions ces deux disciplines dans un cadre interactif, mais aussi de par une intégration poussée de l'analyse économique dans notre démarche et notre acte de conception.
+
