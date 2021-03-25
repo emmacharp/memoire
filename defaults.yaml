@@ -1,0 +1,41 @@
+# leave blank for input from stdin, use [] for no input:
+input-files:
+- introduction.txt
+- chapitre-I.txt
+- chapitre-II.txt
+- chapitre-III.txt
+- chapitre-IV.txt
+- conclusion.txt
+- bibliographie.txt
+
+standalone: true
+self-contained: true
+wrap: none
+
+# note that structured variables may be specified:
+variables:
+  documentclass: article
+  classoption:
+    - draft
+
+# metadata values specified here are parsed as literal
+# string text, not markdown:
+metadata:
+  author:
+  - Marc-André Charpentier
+
+# Note that these take files, not their contents:
+include-before-body: []
+include-after-body: []
+include-in-header: []
+resource-path: ["."]
+
+pdf-engine: pdflatex
+
+reference-links: false
+
+# accept, reject, or all
+track-changes: accept
+
+# none, all, or best
+ipynb-output: best
