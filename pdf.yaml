@@ -47,5 +47,6 @@ header-includes:
 - \renewcommand\listoffigures{\clearpage\listoffiguresORIG\clearpage}
 - \titleformat{\section}{\normalfont\centering\uppercase}{}{0pt}{\MakeUppercase}
 include-before:
+- \pagestyle{fancy}
 - \renewcommand{\footnoterule}{\kern -4.9pt \hrule width \textwidth height .1pt\kern 5pt}
 ---
