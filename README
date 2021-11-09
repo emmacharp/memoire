@@ -1,0 +1,5 @@
+Pour compiler :
+
+pandoc -s {fichiers.txt} pdf.yaml --pdf-engine=xelatex -o memoire.pdf
+nécessite plusieurs paquets LATeX à télécharger avec tlmgr
+Basictex est nécessaire et suffisant.
