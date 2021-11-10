@@ -6,3 +6,7 @@
 
 \subsection*{À venir}
 \addcontentsline{toc}{subsection}{À venir}
+
+Préférences : les différents formats.
+Familiarité : le swipe sur mobile.
+

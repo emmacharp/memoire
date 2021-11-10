@@ -3,7 +3,7 @@
 
 # Chapitre II — La démarche et sa méthode
 
-Après avoir établi et délimité les champs dans lesquels s'inscrit __Economia__, nous allons exposer la façon dont nous allons investir ces champs. Notre démarche et la méthode par laquelle nous la menons seront exposées dans les pages qui suivent. Pour commencer, le développement de notre conscience économique sera présenté. Par la suite, depuis cette conscience et le cheminement qui nous aura motivé à produire l'œuvre interactive au cœur de ce mémoire, nous démontrerons la façon dont on cerne l'objet de la communication économique. Nous intégrerons par la suite, l'un dans l'autre, le *design* et l'économique. Nous détaillerons la technologie choisie pour supporter l'œuvre, en adéquation avec l'analyse économique qui en est faite. Finalement, notre processus de création complet sera résumé.
+Après avoir établi et délimité les champs dans lesquels s'inscrit __Economia__, exposons maintenant la façon dont nous allons les investir dans notre démarche. Pour commencer, le développement de notre conscience économique sera présenté. Par la suite, depuis cette conscience et le cheminement qui nous aura motivé à produire l'œuvre interactive au cœur de ce mémoire, nous démontrerons la façon dont on cerne l'objet de la communication économique. Nous intégrerons par la suite, l'un dans l'autre, le *design* et l'économique. Nous détaillerons la technologie choisie pour supporter l'œuvre, en adéquation avec l'analyse économique qui en est faite. Finalement, notre processus de création complet sera résumé.
 
 ## Le développement d'une conscience économique
 
@@ -60,7 +60,7 @@ Cette préférence pour la pureté de l'information, pour un design qui soit min
 
 ### L'économie implicite du design
 
-Si l'économie et le design ne se joignent pas dans la communication économique populaire d'aujourd'hui, les deux disciplines recherchées ici furent malgré tout jointes à différents moments par de grands économistes ou de grands designers. Otto Neurath, nous l'avons vu, est l'un de ces économistes. Dieter Rams, lui est un de ces designers. Designer industriel chez Braun dans les années 70 et inspiration majeure derrière les appareils Apple (REF : comparaison), est reconnu par la communauté du design pour son énumération de grands principes. 
+Si l'économie et le design ne se joignent pas dans la communication économique populaire d'aujourd'hui, les deux disciplines recherchées ici furent malgré tout jointes à différents moments par de grands économistes ou de grands designers. Otto Neurath, nous l'avons vu, est l'un de ces économistes. Dieter Rams, lui est un de ces designers. Designer industriel chez Braun dans les années 70 et inspiration majeure derrière les appareils, est reconnu par la communauté du design pour son énumération de grands principes. 
 
 Parmi ceux-là, existe « _Good design is as little design as possible_ » (Vitsœ, s. d.). Ce principe est éminemment économique, renvoyant directement aux notions d'optimisation et d'équilibre. Celui-ci guide la création du mémoire : le minimum de design requis pour le bon fonctionnement de l'expérience sera appliqué.
 
@@ -88,7 +88,7 @@ En premier lieu, les préférences subjectives et les incitatifs économiques so
   \caption{Les thèmes affichés en fonction des préférences de macOS}
 \end{figure}
 
-Quant aux incitatifs, l'accent sera mis sur l'accès à de l'information complémentaire, disponible à même l'expérience permettant donc d'inciter l'usager à poursuivre sa découverte du monde économique. Les définitions de concepts clés ou les biographies d'économistes cités font partie de ces contenus complémentaires. La notion de découverte et l'usage des signaux de notifications seront aussi mis à contribution. Par exemple, un usager pourrait outrepasser des étapes de la séquence communicationnelle à sa guise mais dès lors, le fil d'ariane interactif se voit modifié, affublé d'un point d'exclamation pour signaler le « manque ». À l'inverse, un crochet sera affiché pour signaler la complétion d'une étape. Ces signaux visent à informer l'usager que du contenu demeure à consulter et ainsi donc tenter de l'inciter à y retourner.
+Quant aux incitatifs, l'accent sera mis sur l'accès à de l'information complémentaire, disponible à même l'expérience permettant donc d'inciter l'usager à poursuivre sa découverte du monde économique. Les définitions de concepts clés ou les biographies d'économistes cités font partie de ces contenus complémentaires. La notion de découverte et l'usage des signaux de notifications seront aussi mis à contribution. Par exemple, un usager pourrait outrepasser des étapes de la séquence communicationnelle à sa guise mais dès lors, le fil d'ariane interactif voit sa couleur passer au rouge pour une section « incomplète ». À l'inverse, le vert signale la complétion d'une étape. Ces signaux visent à informer l'usager que du contenu demeure à consulter et ainsi donc tenter de l'inciter à y retourner.
 
 Il convient ensuite de bien asseoir l'efficience comme pierre angulaire du raisonnement décisionnel au sein du processus de conception. Pour ce faire, chaque idée de mise en forme est soumise à une analyse des coûts encourus dans sa matérialisation versus ses bénéfices anticipés. Les solutions développées seront donc celles possédant le meilleur rapport coût / bénéfice. Dans cet esprit économique, ce qui existe déjà et est libre d'accès est mis à contribution et seulement le minimum nécessaire au succès de l'expérience est mis à exécution, respectant ainsi le principe de Dieter Rams exprimé ci-haut. Concrètement, cette réflexion économique intégrée au processus de conception nous a mené à des choix précis. Ces choix et leur présence dans l'œuvre seront détaillés dans le chapitre suivant. Associons-en tout de même quelques-uns directement à l'alliage des disciplines.
 
@@ -142,7 +142,7 @@ Pour compléter cette pile technologique économique, toute base de données ou 
 
 ### Structurer la démarche pour mieux créer
 
-L'organisation de notre pensée en structures de toutes sortes se retrouve au cœur du processus de création. Qu'il soit question de rédaction, de conception ou de développement, des structures sont toujours produites. À l'aide de listes imbriquées, nous distillons et articulons le fond de notre pensée. C'est avec cette méthode structurelle qu'est rédigé et créé le contenu textuel et graphique au centre de l'œuvre faisant l'objet de ce mémoire. 
+L'organisation de notre pensée en structures de toutes sortes se retrouve au cœur du processus de création. Qu'il soit question de rédaction, de conception ou de développement, des structures sont toujours produites. À l'aide de listes imbriquées, nous distillons et articulons notre pensée. C'est avec cette méthode structurelle qu'est rédigé et créé le contenu textuel et graphique au centre de l'œuvre faisant l'objet de ce mémoire. 
 
 
 ![Le contenu structuré de l'œuvre de notre recherche-création](images/list-structure-vim.png)

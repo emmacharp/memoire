@@ -3,3 +3,79 @@ Plateforme Web.
 Conscientiser.
 Dresser un portrait grâce à la saisie de données.
 Exposer le public aux effets de leurs actions
+
+- Revenir sur les succès et les échecs.
+- Survoler les données.
+- Réflexion sur le parcours et son efficacité.
+- Les possiblités futures.
+
+Aller jusqu'au bout et revenir. Puis revenir.
+	Comme les éléments de la navigation. Avec la rétroaction des professionnels proches, des éléments graphiques ont été ramenés pour le bien de la compréhension.
+
+Les interventions sont généralement vues comme un succès.
+
+Besoin de vulgariser encore un peu plus.
+Valeur ajoutée. Henri et son insistance.
+
+Ai-je été trop loin ? Ça a pris beaucoup de temps.
+
+Performance atteinte. entre 200ms et 500ms pour le chargement à l'écran. Atteint les plus hauts scores de Google en termes de standards. Accessible.
+
+Utilisation des emojis comme le succès surprise. Provient de l'intention de coller la forme aux intérêts du public et non des miens. Démarche consciente de me « faire violence ».
+
+Ça a pris du temps avant de trouver un money shot, pour finir sur quelque chose d'impressionnant. C'est en discutant avec Henri sur les possibilités que nous imaginé la carte de la production/consommation.
+
+Comment la technologie vieille et native m'a finalement permis de faire tout ce dont j'avais besoin, en implémentant même des techniques associées aux cadriciels sans ces derniers. Notamment l'utilisation de composants et du chargement « Just In Time », qui, dans le jargon, veut tout simplement dire que les ressources necéssaires au rendu de la page ne sont pas toutes chargées d'emblée mais plutôt lorsque l'élément ciblé apparaît à l'écran.
+
+L'ajout des diagrammes et des interventions ont été soulevés par plusieurs utilisateurs. Comment c'était plus intéressant que seulement du texte. Que le ton et la personnalité de l'exposé les avait effectivement, comme désiré, rapprochés du sujet. Que ça avait contribué à le familiariser.
+
+La maintenance et l'évolution. Econome en tant que cadre et modèle.
+
+On a manqué de contenu pendant un moment d'attente de données. Ça nous a amené à compenser dans la forme (images...)
+
+Difficulté avec le processus et l'attente des données. Henri a une vie...
+
+Pour la suite, il faudra mieux arrimer données et communication. J'ai eu à manipuler les données brutes ce qui cause délais et erreurs. Je suis concepteur, pas économiste !
+
+On a aussi eu plusieurs accrochages sur la façon de vulgariser les concepts économiques. Henri tient à l'intégrité conceptuelle alors que je cherche tout simplement à rendre les concepts assimilables par le public. Par exemple, la « valeur ajoutée », concept primordial ici a souvent été sujet à discussion animée. La valeur « achetée » et la valeur « créée » sont deux concepts développés ici pour le public et qui n'ont pas plu à l'économiste. Pour lui, la valeur ajoutée ne peut se présenter de la sorte. Il s'agit distinctions impures. Il fut ardu de savoir où se positionner par rapport à cette posture épistémique de l'économiste.
+
+Analyser chaque fonctionnalité. Son développement et sa conception. Navigation et crochets. Diagrammes et fleèches. Va et vient. Aller trop loin des deux côtés. Être ramené à l'ordre par ses proches.
+
+Commnent pourrait-on améliorer l'expérience ?
+
+Paris perdus ? Gagnés ?
+
+Parler de la diffusion sur FB, demander aux proches de partager. Mon rapport au médias sociaux. Malaise à demander le partage. Je n'y investi rien. Difficile ensuite de demander aux autres d'investir pour nous.
+
+LEs fois où on m'a remené. Tics de langages. Surutilisation du sobriquet. Sursimplfication des diagrammes. Étant donné la quête d'efficacité centrale à ma démarche, je ne me pouvais de faire fi de ces écueils. Même si l'égo pouvait être froissé — une réaction dont je ne suis pas fier -, nous devions aller de l'avant. Dès qu'on recherche l'efficacité de notre communication et de nos efforts, nous ne sommes plus qu'un artiste. Notre expression doit être soumise à la meilleure compréhension de notre public. Notre œuvre appartient au public non pas seulement dans sa réception, mais aussi dans sa conception. Le public guide le travail, du début à la fin.
+
+Un deux semaines de va et vient avec les proches où beaucoup a évolué. La facilité et la rapidité avec laquelle nous avons pu modifier les diagrammes, la navigation, le contenu texte après réception des commentaires, démontre l'efficacité de Econome en tant que cadre de conception. Son système de styles et ses concepts se sont avérés d'une malléabilité suffisante, voire suprenante, pour accueillir tous les ajustements suggérés ou demandés par notre public de proches. Il s'agit là pour nous d'un signal de succès. Le cadre établi nous permettra de faire évoluer l'offre Econome de manière économiquement viable.
+
+Nous sommes encouragés par la réception du public. Nous croyons donc en la pertinence de communiquer l'économique ainsi. C'est ce que nous espérions valider avec ce travail de recherche-création. Il va sans dire que pour nous, il s'agit d'un succès. Un succès à paufiner, développer et répéter. Ce n'est que le début des exposés Econome.
+
+Les limites de notre création.
+
+Le nettoyage final fut fastidieux. Notre méthode de conception à l'aide de code présente l'inconvénient de développer le code au fur et à mesure que les idées jaillissent de notre esprit. Il en découle un processus particulièrement « sale » où le code n'est pas réfléchi ni optimisé avant que la conception ne soit aboutie. Il est probable à cet instant (comme il est arrivé dans le développement de ce mémoire de création) qu'une dette technologique substantielle ait été accumulée. Il faut payer cette dette rapidement, avant qu'elle ne s'accroisse dans le temps. Les dernières semaines ont été vouées à cet usage. Nous avons dû restructurer les contenus afin de générer des URLs qui soient optimaux, réorganiser les feuilles de style pour éviter que les propriétés esthétiques des éléments ne s'entrechoquent ou se dédoublent. Il ne s'agit pas d'un travail difficile en soi, mais il peut demander beaucoup de réflexion. Assurément, la méthode de conception à l'aide de code ajoute temps et effort à la tâche d'optimisation du code. En contrepartie, elle procure un environnement de conception beaucoup plus près de la réalité finale de l'œuvre ce qui balise et conduit le processus de création. Ce faisant, la méthode ajoute valeur à l'œuvre. Est-ce que cette valeur équivaut au coûts d'optimisation asssociés à la même dite méthode ? Il est évidemment difficile d'en être absolument certain... Nous avons néanmoins l'impression bien subjective que tel est le cas. En ce sens, il convient pour nous de continuer d'employer cette méthode de conception par le code tout en, cependant, tentant de minimiser ses coûts afférents.
+
+Diffusion.
+Maintenance et évolution.
+
+## Revue des décisions prises
+
+Technologie. Concepts et fonctionnalités. Diagrammes. Ton & familiarité
+
+
+Préférences et incitatifs. Adaptation. Performance. Intérêt suscité.
+
+
+MC
+Instructif et ludique, complet. À notre rythme.
+étonné. intervention, explications. Citation. fait des pauses.
+On sent le travail. On verrait très bien dans l'Actualité.
+pédagogie écnomoqiue pour les peronnes comme moi.
+
+Tu sens qu'il y a un désir didactique mais qui est fait en toute humilité. On veut qu'ils comprennent et donc on va leur en donner plus. Renvoi, complémentarité. Soit on al'impression qu'on est des niaiseux, ou bien se gargariser. hu,ilité et désir m,anifeste de faire comprendre au lecteur. juste assez ludique, pas trop. Juste assez drôle, assez baveux. Vraiment pas l'impression d'être niaiseux.
+
+La nuance de l'enjeu des fournisseurs.
+
+CChoquée par la finale « de quoi 94% lu ? »
