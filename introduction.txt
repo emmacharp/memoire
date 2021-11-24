@@ -11,6 +11,7 @@
 	— Un proche ami de l'auteur.
 \end{flushright}
 
+\bigskip
 \linespread{1.3}\selectfont
 
 \section*{Introduction et problématique}
