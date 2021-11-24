@@ -1,6 +1,8 @@
 \clearpage
+\pagestyle{fancy}
 \pagenumbering{arabic}
 \thispagestyle{empty}
+\linespread{1.3}\selectfont
 
 
 \begin{flushright}
