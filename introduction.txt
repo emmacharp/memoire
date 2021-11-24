@@ -2,7 +2,6 @@
 \pagestyle{fancy}
 \pagenumbering{arabic}
 \thispagestyle{empty}
-\linespread{1.3}\selectfont
 
 
 \begin{flushright}
@@ -11,6 +10,8 @@
 
 	— Un proche ami de l'auteur.
 \end{flushright}
+
+\linespread{1.3}\selectfont
 
 \section*{Introduction et problématique}
 \addcontentsline{toc}{section}{Introduction et problématique}
