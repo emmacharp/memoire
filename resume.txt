@@ -1,6 +1,8 @@
 \clearpage
+\linespread{1}\selectfont
 
 \section*{Résumé}
+\addcontentsline{toc}{section}{Résumé}
 
 À l'époque de l'entre-deux-guerres, l'économiste Otto Neurath et le concepteur graphique Gerd Arntz ont parcouru les musées européens avec leurs expositions ISOTYPE. L'objectif explicite de cette entreprise de communication économique populaire était d'exposer au public sa réalité économique, dénuée de toute idéologie. Inspirés par cette œuvre du siècle dernier, nous proposons « Econome », un modèle interactif de communication économique populaire. Par l'exposition de faits économiques, Econome informe les actions quotidiennes du public sans prescrire de politiques. Notre objectif est d'intéresser le public à la dimension économique de leurs actions et contribuer à la compréhension des enjeux inhérents à celles-ci. 
 
