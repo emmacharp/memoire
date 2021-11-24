@@ -1,7 +1,7 @@
 \clearpage
 \thispagestyle{empty}
 
-# Énoncé et cadrage
+# Chapitre I — Énoncé et cadrage
 
 Econome, c'est une recherche-création qui se propose d'allier « analyse économique » et « tradition du design » dans la conception Web d'un modèle interactif de communication économique populaire. « Conception Web » et « Communication économique » demeurent les deux champs que nous explorerons, guidés par le *modus operandi* des deux disciplines précitées.
 
