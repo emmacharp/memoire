@@ -77,9 +77,9 @@ Nielsen, Jakob. (2004). *Situate Follow-Ups in Context*. Récupéré le 14 mars 
 
 Nielsen, Jakob. (2010). *Website Response Times*. Récupéré le 14 mars 2021 de https://www.nngroup.com/articles/website-response-times/
 
-Nielsen, Jim. (2020). *Cheating Entropy with Native Web Technologies* Récupéré le 14 mars 2021 de https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
+Nielsen, Jim. (2020). *Cheating Entropy with Native Web Technologies*. Récupéré le 14 mars 2021 de https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
 
-Nolan, A. (2016). *The State of Front-End Tooling – 2015* Récupéré le 21 mars de de [https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
+Nolan, A. (2016). *The State of Front-End Tooling – 2015*. Récupéré le 21 mars de de [https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
 
 O'Neill, J. F. (2007). Pluralism and Economic Insitutions. Dans E. Nemeth, S. W. Schmitz et T. Uebel (dir.), *Otto Neurath's Economics in Context* (p. 77-100). New York : Springer.
 
