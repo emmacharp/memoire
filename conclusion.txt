@@ -1,7 +1,7 @@
 \clearpage
 \thispagestyle{empty}
 
-\section*{Conclusion : le futur de Econome en tant que cadre de conception}
+\section*{Conclusion}
 \addcontentsline{toc}{section}{Conclusion}
 
 Au fil de ces sept dernières années, notre vision aura grandement changé. De départs confus et excentriques, nous avons progressé vers un focus clair et défini, avec une sujet précis, découlant de l'action humaine. « Pourquoi acheter local ? Un exposé Econome » est le fruit de ces années où nous aurons consulté de multiples œuvres de communication économique populaire pour trouver *la* source, celle qui nous inspire et nous permet de nous comparer de manière distincte aux œuvres de communication économique populaires contemporaines. La vision d'Otto Neurath s'est répercutée dans la nôtre. Et comme lui et son comparse Arntz, nous avons construit un cadre de conception, régissant la forme et le contenu de nos exposés.
