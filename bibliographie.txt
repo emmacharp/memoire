@@ -1,5 +1,6 @@
 \newpage{}
 
+\thispagestyle{empty}
 \section*{Bibliographie}
 \addcontentsline{toc}{section}{Bibliographie}
 
