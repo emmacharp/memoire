@@ -1,5 +1,4 @@
 \clearpage
-\pagestyle{fancy}
 \pagenumbering{arabic}
 \thispagestyle{empty}
 
