@@ -1,4 +1,5 @@
 \clearpage
+\pagestyle{fancy}
 
 \section*{Résumé}
 \addcontentsline{toc}{section}{Résumé}
