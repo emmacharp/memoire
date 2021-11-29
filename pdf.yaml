@@ -3,7 +3,7 @@ lang: fr
 title: \uppercase{\normalsize Econome}
 subtitle: \uppercase{\normalsize Un modèle interactif \linebreak de communication économique populaire} \vspace{3cm} \linebreak 
 author: \uppercase{\normalsize Marc-André Charpentier} \vspace{3em}
-date: \uppercase{\normalsize novembre 2021}
+date: \uppercase{\normalsize décembre 2021}
 fontsize: 12pt
 toc: true
 toc-depth: 3
@@ -31,7 +31,6 @@ header-includes:
 - \posttitle{\end{center}}
 - \preauthor{\begin{center}\uppercase{Mémoire \linebreak présenté \linebreak comme exigence partielle \linebreak de la maîtrise en communication} \vfill \uppercase{\normalsize par \linebreak}}
 - \postauthor{\end{center}}
-- \renewcommand{\listfigurename}{Liste des figures}
 - \fancyhf{}
 - \fancyhead[R]{\thepage}
 - \renewcommand{\headrulewidth}{0pt}
@@ -41,11 +40,10 @@ header-includes:
 - \setlength{\belowcaptionskip}{15pt plus 3pt minus 2pt}
 - \widowpenalty10000
 - \clubpenalty10000
+- \titleformat{\section}{\normalfont\centering\uppercase}{}{0pt}{\MakeUppercase}
+- \addto\captionsfrench{\renewcommand{\listfigurename}{Liste des figures}}
 - \let\tableofcontentsORIG\tableofcontents
 - \renewcommand\tableofcontents{\clearpage\tableofcontentsORIG\clearpage}
 - \let\listoffiguresORIG\listoffigures
 - \renewcommand\listoffigures{\clearpage\listoffiguresORIG\clearpage}
-- \titleformat{\section}{\normalfont\centering\uppercase}{}{0pt}{\MakeUppercase}
-include-before:
-- \renewcommand{\footnoterule}{\kern -4.9pt \hrule width \textwidth height .1pt\kern 5pt}
 ---
