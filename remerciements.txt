@@ -3,11 +3,12 @@
 \clearpage
 
 \section*{Remerciements}
+\addcontentsline{toc}{section}{Remerciements}
 
 \linespread{1}\selectfont
 
 Pour avoir rendu cette œuvre possible, nous voulons tout particulièrement remercier Henri Thibaudin, sans qui nous n'aurions pu accéder au savoir économique nécessaire à sa réalisation. Mais encore, il aura su répéter, vulgariser, focaliser puis défier aux moments opportuns. Sans lui, Econome ne pourrait exister. Nous tenons aussi à remercier, avec tout l'amour du monde, l'amoureuse qui fit preuve d'intérêt, de franchise et de perspicacité dans son apport à la création. Son support fut aussi indéfectible que rationnel. Nous tenons finalement à remercier notre directeur, professeur Renaud, qui fit pour sa part preuve d'une patience, d'une justesse et d'une droiture exemplaires. Nous en sommes des plus reconnaissants.
 
-Et à tous ceux et celles qui auront contribué de près ou de loin à la concrétisation de cette œuvre, notamment Cynthia, Pierre-Luc, Guillaume, Alex, Vincent, Dominic, Vanille et Nicolas, nous disons « Merci les amis ! ».
+Nous remercions aussi les membres du jury, Marjolaine Béland et Jean-Hugues Roy.Et à tous ceux et celles qui auront contribué de près ou de loin à la concrétisation de cette œuvre, notamment Cynthia, Pierre-Luc, Guillaume, Alex, Vincent, Dominic, Vanille et Nicolas, nous disons « Merci les amis ! ».
 
 \linespread{1.3}\selectfont

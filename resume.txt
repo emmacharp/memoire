@@ -1,5 +1,7 @@
 \clearpage
 
+\addcontentsline{toc}{section}{Liste des figures}
+
 \section*{Résumé}
 \addcontentsline{toc}{section}{Résumé}
 
