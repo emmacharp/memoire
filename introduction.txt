@@ -1,6 +1,5 @@
 \clearpage
 \pagenumbering{arabic}
-\thispagestyle{empty}
 
 
 \begin{flushright}

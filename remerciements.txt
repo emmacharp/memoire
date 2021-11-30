@@ -1,7 +1,8 @@
-\pagestyle{empty}
+\pagenumbering{roman}
 \thispagestyle{empty}
 \clearpage
 
+\pagestyle{plain}
 \section*{Remerciements}
 \addcontentsline{toc}{section}{Remerciements}
 

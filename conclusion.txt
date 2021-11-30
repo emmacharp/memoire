@@ -1,5 +1,4 @@
 \clearpage
-\thispagestyle{empty}
 
 \section*{Conclusion}
 \addcontentsline{toc}{section}{Conclusion}

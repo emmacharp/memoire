@@ -1,5 +1,4 @@
 \clearpage
-\thispagestyle{empty}
 
 # Chapitre IV — Post-mortem
 
