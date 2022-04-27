@@ -1,9 +1,9 @@
 ---
 lang: fr
-title: \uppercase{\normalsize Econome}
+title: \uppercase{\normalsize Économe}
 subtitle: \uppercase{\normalsize Un modèle interactif \linebreak de communication économique populaire} \vspace{3cm} \linebreak 
 author: \uppercase{\normalsize Marc-André Charpentier} \vspace{3em}
-date: \uppercase{\normalsize décembre 2021}
+date: \uppercase{\normalsize mai 2022}
 fontsize: 12pt
 toc: true
 toc-depth: 3

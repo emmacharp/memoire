@@ -1,4 +1,5 @@
 \clearpage
+\thispagestyle{empty}
 
 # Chapitre IV — Post-mortem
 
@@ -59,7 +60,7 @@ Assurément, la méthode de conception à l'aide de code ajoute temps et effort 
 La gestion de l'optimisation du code supportant l'œuvre aura donc marqué le dernier mois de développement. Nous croyons maintenant avoir laissé le code dans un état solide, où les concepts sont cohérents, logiques et robustes. Bien qu'imparfait, le code est maintenant prêt à évoluer, allégé de la dette technologique accumulée au fil de la dernière année. Alors que le nettoyage s'opérait dans les coulisses, le dernier mois aura aussi été marqué par la présentation de _Économe_ à plusieurs proches et moins proches, des professionnels de la conception, du développement et de l'économie. Jusque dans les premiers jours de la diffusion publique de _Économe_, l'apport du premier public de proches et moins proches aura informé (et informe encore) la forme et le fond de _Économe_. La conception pour le public y aura pris tout son sens.
 
 
-## Les proches, le public et Econome.
+## Les proches, le public et _Économe_.
 
 Dans le dernier mois donc, nous avons commencé à présenter _Économe_ à un public restreint mais grandissant. Beaucoup de commentaires, suggestions et critiques nous auront amenés à revoir et réviser différents aspects du texte, de l'interface, de l'interactivité et des données. Ce fut sans contredit une période faste de peaufinement, d'avancées mais aussi une période de remise en question et d'humilité. Il est inhérent à la démarche supportant cette recherche-création de coller sa conception au public. Nous étions préparés à aller chercher la critique à des fins d'amélioration. Les critiques les plus perçantes peuvent mener vers les meilleurs ajustements. Il s'agit d'une technique de conception que nous employons largement, que ce soit dans l'enseignement à nos étudiants ou dans les projets professionnels avec nos collègues. Nous estimons plus la critique constructive que les félicitations. 
 
@@ -116,7 +117,7 @@ Nous avons aussi atteint nos objectifs de performance. Effectivement, nous vouli
     \caption{Performance sur un portable de 2021}
     \label{fig:f2}
   \end{subfigure}
-  \caption{Econome atteint les plus hauts standards de performance}
+  \caption{Économe atteint les plus hauts standards de performance}
 \end{figure}
 
 ### Préférences et incitatifs
