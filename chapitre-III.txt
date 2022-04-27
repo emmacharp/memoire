@@ -2,7 +2,7 @@
 
 # Chapitre III — L'œuvre
  
-_Économe_ est un modèle interactif de communication économique populaire. Ce modèle encadre la conception d'œuvres vouée à cette communication. La première, _Pourquoi acheter local ? Un exposé _Économe__, est celle que nous proposons comme objet de cette recherche-création. Dans ce chapitre, nous aborderons comment la scénarisation contribue à nos objectifs, tout comme le fait l'interactivité au sein de l'œuvre. Nous détaillerons par la suite la façon de nous avons concrétisé notre communication et comment la tradition du *design* fut exploitée. Finalement, nous réitérons comment _Économe_ encadre la création d'œuvres de communication économique populaire.
+_Économe_ est un modèle interactif de communication économique populaire. Ce modèle encadre la conception d'œuvres vouée à cette communication. La première, _Pourquoi acheter local ? Un exposé Économe_, est celle que nous proposons comme objet de cette recherche-création. Dans ce chapitre, nous aborderons comment la scénarisation contribue à nos objectifs, tout comme le fait l'interactivité au sein de l'œuvre. Nous détaillerons par la suite la façon de nous avons concrétisé notre communication et comment la tradition du *design* fut exploitée. Finalement, nous réitérons comment _Économe_ encadre la création d'œuvres de communication économique populaire.
 
 ## La scénarisation
 
@@ -110,9 +110,9 @@ Le diagramme[^icones], s'inscrit par ailleurs dans le chemin tracé par Otto Neu
 
 ## La tradition du design et Econome
 
-Comment est-ce que _Pourquoi acheter local ? Un exposé _Économe__ en tant qu'œuvre interactive, applique-t-elle concrètement les inspirations mentionnées plus haut et se rapportant à la tradition du *design* ? Plusieurs de ces éléments concrets de l'œuvre et de son expérience ont déjà été abordés, mais faisons-le ici du point de vue de la stricte tradition du *design*.
+Comment est-ce que _Pourquoi acheter local ? Un exposé Économe_ en tant qu'œuvre interactive, applique-t-elle concrètement les inspirations mentionnées plus haut et se rapportant à la tradition du *design* ? Plusieurs de ces éléments concrets de l'œuvre et de son expérience ont déjà été abordés, mais faisons-le ici du point de vue de la stricte tradition du *design*.
 
-_Pourquoi acheter local ? Un exposé _Économe__, se décompose en sections, chacune desquelles présente une composition qui peut lui être propre, en fonction du contenu qu'elle met de l'avant. Ces compositions sont basées sur des grilles, de la manière que l'enseignait Josef Müller-Brockmann dans son classique de la communication graphique : _Grid Systems_. Nous avons abordé chacune des sections dans une optique d'optimisation de l'espace, aidé par une grille maîtresse.
+_Pourquoi acheter local ? Un exposé Économe_, se décompose en sections, chacune desquelles présente une composition qui peut lui être propre, en fonction du contenu qu'elle met de l'avant. Ces compositions sont basées sur des grilles, de la manière que l'enseignait Josef Müller-Brockmann dans son classique de la communication graphique : _Grid Systems_. Nous avons abordé chacune des sections dans une optique d'optimisation de l'espace, aidé par une grille maîtresse.
 
 L'esthétique est simple et épurée. Mis à part les diagrammes, les compositions reposent essentiellement sur le travail typographique. Un soin tout particulier est apporté à la typographie, à sa richesse, à son expressivité. Bien que nous ayons choisi des polices « courantes »[^websafefonts], celles-ci demeurent polyvalentes et nous en avons pleinement profité dans nos jeux typographiques.
 
